@@ -1,0 +1,71 @@
+# nivel | pregunta (con ___) | respuesta | alias (;) | mentiras de la casa (;) | mentiras peques (;) | dato curioso
+1 | El pulpo tiene ___ corazones | tres | 3 | dos;ocho;cinco | uno;cinco;diez | Dos corazones bombean sangre a las branquias y el tercero al resto del cuerpo.
+1 | Las vacas tienen un estómago dividido en ___ partes | cuatro | 4 | dos;seis;tres | dos;siete;cien | Rumen, retículo, omaso y abomaso: así digieren la hierba poco a poco.
+1 | El animal terrestre más rápido del mundo es el ___ | guepardo | chita;guepardo africano | león;antílope;caballo | conejo;caballo;avestruz | Puede superar los 100 km/h en carreras cortas.
+1 | Las jirafas tienen ___ vértebras en el cuello | siete | 7 | veinte;doce;treinta | cien;mil;dos | Las mismas que una persona, pero cada una mide más de 20 cm.
+2 | El corazón de una ballena azul pesa unos ___ kilos | 180 | ciento ochenta;180 kilos | 20;2.000;900 | - | Es el corazón más grande del reino animal: casi lo que pesan dos personas adultas y media.
+1 | Los flamencos son rosas porque comen ___ | gambas | camarones;crustáceos;gambitas | fresas;flores;algas rojas | fresas;chuches;tomates | Los pigmentos de las gambas y algas que comen tiñen sus plumas.
+1 | Las mariposas saborean la comida con las ___ | patas | pies | alas;antenas;ojos | orejas;manos;colas | Tienen receptores del gusto en las patas: prueban las hojas al posarse.
+1 | Un caracol puede dormir hasta ___ años seguidos | tres | 3 | diez;un mes;seis | cien;un minuto;mil | Si hace mucho calor o mucho seco, se encierra en su concha y espera.
+1 | Las cebras tienen la piel de color ___ | negro | negra;oscuro;oscura | blanco;gris;rosa | verde;azul;morado | Debajo de las rayas, la piel de la cebra es oscura.
+1 | Las nutrias marinas duermen ___ para no separarse | de la mano | agarradas de la mano;cogidas de la mano;agarradas | abrazadas;en fila;en círculo | en una cama;con pijama;en un árbol | Así el agua no las aleja mientras flotan dormidas.
+1 | El animal más grande que ha existido nunca es la ___ | ballena azul | ballena | megalodón;diplodocus;orca | jirafa;elefante;hormiga gigante | Es más grande que cualquier dinosaurio conocido.
+1 | Los pingüinos emperador viven en la ___ | Antártida | Antártico;Antártica | Islandia;Laponia;Patagonia | selva;playa de Benidorm;Luna | Allí aguantan temperaturas por debajo de 40 grados bajo cero.
+1 | Un grupo de leones se llama ___ | manada | pandilla de leones | jauría;clan;rebaño | equipo;clase;familia león | En la manada son las leonas las que suelen cazar.
+1 | El koala come casi solo hojas de ___ | eucalipto | eucaliptus | bambú;pino;roble | chocolate;lechuga;pizza | Esas hojas tienen tan poca energía que el koala duerme unas 20 horas al día.
+1 | Los panda gigantes pasan el día comiendo ___ | bambú | bambu;cañas de bambú | eucalipto;arroz;hierba | helado;espaguetis;galletas | Pueden comer más de 12 kilos de bambú al día.
+1 | Las abejas fabrican miel a partir del ___ de las flores | néctar | nectar | polen;pétalo;tallo | agua;perfume;color | El néctar es un líquido dulce; el polen lo usan sobre todo como alimento.
+1 | El caballito de mar que lleva las crías en la tripa es el ___ | papá | padre;macho | abuelo;hermano mayor;tío | perro;pez payaso;tiburón | El macho tiene una bolsa donde la hembra deja los huevos.
+1 | Los perros sudan sobre todo por las ___ | patas | almohadillas;almohadillas de las patas | orejas;axilas;lengua | colas;narices;uñas | Por eso jadean: sacar la lengua les ayuda a refrescarse.
+1 | Una gallina pone de media casi ___ huevo al día | un | 1;uno | dos;tres;medio | diez;cien;veinte | Las gallinas ponedoras ponen unos 300 huevos al año.
+1 | Los camellos guardan en la joroba ___ | grasa | grasa;reservas de grasa | agua;leche;arena | caramelos;juguetes;sopa | No es agua: es grasa que usan como energía cuando no hay comida.
+1 | El delfín duerme con ___ del cerebro despierta | la mitad | medio cerebro;una mitad | un ojo;nada;un tercio | todo;la nariz;el ombligo | Así puede seguir nadando y subir a respirar.
+1 | Las ranas beben agua a través de la ___ | piel | la piel | boca;nariz;lengua | pajita;oreja;taza | Absorben el agua por una zona de la piel de la tripa.
+1 | El ojo de un avestruz es más grande que su ___ | cerebro | sesos | pico;huevo;corazón | cabeza;pata;ala | Cada ojo mide unos 5 centímetros de diámetro.
+1 | Los gatos pasan durmiendo unas ___ horas al día | quince | 15;dieciséis;16;catorce;14;trece;13;doce;12 | ocho;veinte;diez | dos;cien;ninguna | Duermen tanto para guardar energía para cazar, aunque sea un juguete.
+1 | Los tiburones existen desde antes que los ___ | dinosaurios | árboles | peces;pulpos;cocodrilos | coches;perros;castillos | Hay tiburones desde hace más de 400 millones de años.
+1 | El color de la sangre del pulpo es ___ | azul | azulada | verde;morada;transparente | naranja;dorada;rosa | Usa cobre en lugar de hierro para llevar el oxígeno.
+1 | Los elefantes saludan a otros elefantes con la ___ | trompa | trompa | oreja;cola;pata | mano;sombrero;boca | Entrelazan las trompas como si se dieran un abrazo.
+1 | Un pájaro que puede volar hacia atrás es el ___ | colibrí | colibri;picaflor | gorrión;loro;murciélago | pingüino;avestruz;gallina | Mueve las alas unas 50 veces por segundo.
+1 | Las estrellas de mar no tienen ___ | cerebro | sesos | boca;patas;estómago | ojos;color;nombre | Tampoco tienen sangre: usan agua de mar para moverse.
+1 | Las hormigas no tienen ___ | pulmones | pulmón | patas;boca;ojos | amigos;casa;nariz | Respiran por pequeños agujeros en los lados del cuerpo.
+1 | La lengua de la jirafa es de color ___ | azul oscuro | azul;negra;morada;negro azulado;azulada | rosa;roja;verde | amarilla;naranja;blanca | El color oscuro parece protegerla del sol mientras come.
+1 | Un oso polar tiene la piel de color ___ | negro | negra | blanco;rosa;marrón | azul;verde;amarillo | Su pelo es transparente y hueco; parece blanco por cómo refleja la luz.
+1 | Las vacas tienen mejores amigas y se estresan si las ___ | separan | separan de ellas;alejan | pintan;bañan;peinan | castigan;despiertan;miran | Varios estudios muestran que están más tranquilas junto a su compañera preferida.
+1 | El ave más grande del mundo, que no puede volar, es el ___ | avestruz | avestruces | pingüino;emú;pavo real | gallina;loro;pato | Puede correr a unos 70 km/h.
+2 | Un grupo de cuervos se llama ___ | bandada | parvada | consejo;tribu;asamblea | - | - | En inglés tienen un nombre más tétrico: un "murder" de cuervos.
+2 | El animal que más horas duerme al día es el ___ | koala | koalas | perezoso;gato;oso panda | - | - | El koala puede dormir hasta 20 o 22 horas diarias.
+2 | Los ajolotes pueden regenerar partes de su ___ | corazón | cerebro;patas;corazon | caparazón;pelo;pico | - | - | Pueden volver a formar patas, la cola e incluso parte del corazón y del cerebro.
+2 | El animal que tiene la mordida más fuerte es el ___ | cocodrilo | cocodrilo marino | tiburón blanco;hipopótamo;león | - | - | El cocodrilo de agua salada tiene la mordida más potente medida en un animal vivo.
+2 | Un tardígrado o "oso de agua" puede sobrevivir en el ___ | espacio | espacio exterior;vacío | volcán;centro de la Tierra;Sol | - | - | Sobrevivió a una exposición al espacio en un experimento de 2007.
+2 | El ornitorrinco es un mamífero que pone ___ | huevos | huevo | perlas;piedras;semillas | - | - | Junto con los equidnas, son los únicos mamíferos que ponen huevos.
+2 | Las crías de canguro nacen del tamaño de una ___ | judía | alubia;gominola;habichuela;cacahuete | pelota de tenis;naranja;mano | - | - | Al nacer miden unos 2 centímetros y trepan solas hasta la bolsa.
+2 | Las medusas existen desde hace más de ___ millones de años | 500 | quinientos;500 millones;más de 500 | 100;50;2.000 | - | - | Son más antiguas que los dinosaurios y que los tiburones.
+2 | Una pulga puede saltar unas ___ veces su altura | cien | 100;150;ciento cincuenta;doscientas;200 | diez;mil;veinte | - | - | Es como si una persona saltara por encima de un rascacielos.
+2 | El único mamífero capaz de volar de verdad es el ___ | murciélago | murcielago;murciélagos | ardilla voladora;lémur volador;zorro volador | - | - | Las ardillas "voladoras" solo planean.
+2 | Las huellas de nariz de los perros son únicas, como nuestras ___ | huellas dactilares | huellas;huellas digitales | pecas;voces;ojos | - | - | Algunos registros caninos han usado la huella de la nariz para identificar perros.
+2 | El pez payaso macho puede convertirse en ___ | hembra | hembra | pez globo;tiburón;medusa | - | - | Si la hembra del grupo muere, el macho dominante cambia de sexo.
+2 | Las vacas producen más leche si escuchan ___ | música tranquila | música lenta;música relajante;música clásica | rock;su nombre;radio | - | - | Un estudio británico vio más producción con música lenta y relajada.
+3 | El animal considerado más letal para los humanos es el ___ | mosquito | mosquitos | tiburón;serpiente;escorpión | - | - | Por las enfermedades que transmite, como la malaria.
+3 | Los pulpos tienen neuronas en sus ___ | brazos | tentáculos | ventosas;ojos;branquias | - | - | Unas dos terceras partes de sus neuronas están en los brazos.
+3 | El animal con más dientes de esta lista es el ___ | caracol | caracoles | tiburón;cocodrilo;delfín | - | - | Algunos caracoles tienen miles de diminutos dientes en su lengua raspadora.
+3 | El "ruido" que hace una jirafa por la noche es un ___ | zumbido | murmullo;tarareo | maullido;silbido;ladrido | - | - | Se grabaron zumbidos graves nocturnos en varios zoológicos.
+
+1 | Los caracoles tienen miles de dientes en la ___ | lengua | rádula;radula | concha;boca de fuera;cola | nariz;oreja;baba | Su lengua raspadora se llama rádula y está llena de dientecillos.
+1 | Los pingüinos regalan a su pareja una ___ | piedra | piedrita;piedrecita;guijarro | concha;pluma;flor | pizza;pulsera;carta | Los pingüinos papúa buscan la piedra más bonita para hacer el nido.
+1 | Las ardillas olvidan dónde enterraron muchas de sus ___ | bellotas | nueces;semillas;frutos secos | crías;madrigueras;colas | gafas;llaves;mochilas | Gracias a sus olvidos nacen muchísimos árboles nuevos.
+1 | El hipopótamo suda un líquido de color ___ | rojo | rojizo;rosa;naranja | verde;azul;negro | morado;dorado;arcoíris | No es sangre: es una sustancia que le protege del sol.
+1 | Los búhos pueden girar la cabeza casi ___ | tres cuartos de vuelta | 270 grados;270;tres cuartos | media vuelta;una vuelta entera;dos vueltas | diez vueltas;nada;al revés | Tienen 14 vértebras en el cuello, el doble que nosotros.
+1 | Los leones pasan durmiendo hasta ___ horas al día | veinte | 20;dieciocho;18 | ocho;doce;cuatro | dos;cien;ninguna | Cazar gasta mucha energía, así que descansan casi todo el día.
+1 | La cría del canguro se llama ___ | joey | yoey | canguri;cachorro;saltarín | bebé bota;pompón;mini | En inglés "joey" sirve para las crías de canguros, koalas y wombats.
+1 | Los gallos cantan aunque no haya ___ | sol | luz;amanecer | gallinas;comida;viento | despertador;radio;tele | Tienen un reloj interno que les avisa de que llega la mañana.
+1 | Los pulpos pueden cambiar de ___ en menos de un segundo | color | colores | forma de ojos;número de patas;corazón | nombre;casa;voz | Tienen células especiales en la piel llenas de pigmentos.
+1 | El perezoso baja del árbol una vez a la semana para hacer ___ | caca | popó;sus necesidades;caca y pis | ejercicio;la compra;amigos | deberes;yoga;fiesta | Es su paseo más peligroso, porque en el suelo es muy lento.
+2 | Las abejas se comunican con un ___ | baile | danza;bailecito | zumbido;color;olor | - | Con la danza del meneo indican dónde están las flores.
+2 | Un pez que puede caminar por el fondo del mar es el ___ | pez murciélago | pez sapo;pez rana | pez espada;pez luna;pez payaso | - | Usa sus aletas como si fueran patitas.
+2 | El animal con los ojos más grandes del mundo es el ___ | calamar gigante | calamar colosal;calamar | ballena azul;avestruz;tiburón ballena | - | Sus ojos pueden medir como un balón de fútbol.
+3 | En inglés, un grupo de flamencos se llama "___" | flamboyance | - | pinkness;stand;colony | - | Significa "extravagancia": ¡les va perfecto!
+2 | Los cocodrilos no pueden sacar la ___ | lengua | lengua | cola;uñas;garras | - | La tienen sujeta al fondo de la boca.
+3 | Los elefantes pueden "oír" a través de las ___ | patas | pies | orejas;colmillos;trompa | - | Notan las vibraciones del suelo, que viajan kilómetros.
+3 | La hormiga cortadora no se come las hojas, las usa para cultivar ___ | hongos | setas;un hongo | algas;semillas;flores | - | Son agricultoras desde hace millones de años.
+3 | El corazón de una gamba está en su ___ | cabeza | cabeza | cola;patas;espalda | - | Por eso al pelarlas se quita con la cabeza.

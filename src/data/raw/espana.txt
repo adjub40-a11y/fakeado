@@ -1,0 +1,32 @@
+# nivel | pregunta | respuesta | alias | casa | peques | dato
+1 | En Buñol (Valencia) cada agosto se celebra una batalla de ___ | tomates | tomate;la Tomatina | naranjas;harina;huevos | almohadas;bolas de nieve;gominolas | La Tomatina se celebra el último miércoles de agosto.
+1 | En las Fallas de Valencia, los monumentos se ___ al final | queman | quemen;arden;cremà;crema | venden;guardan;pintan | comen;regalan;esconden | La noche de la cremà es el 19 de marzo, día de San José.
+1 | El Ratoncito Pérez lo inventó un escritor para el rey ___ | Alfonso XIII | Alfonso trece;Alfonso 13 | Felipe II;Carlos III;Fernando VII | Pepito;Ratón I;Queso | Luis Coloma escribió el cuento en 1894 cuando al futuro rey se le cayó un diente.
+1 | El pico más alto de España es el ___ | Teide | teide;el Teide | Mulhacén;Aneto;Veleta | Everest;Montserrat;Tibidabo | Está en Tenerife y mide 3.715 metros.
+1 | En Madrid hay una estatua de un oso comiendo de un ___ | madroño | madroño;arbusto de madroño | manzano;pino;naranjo | bocadillo;helado;pastel | Es el símbolo de la ciudad, en la Puerta del Sol.
+1 | En Nochevieja en España se comen ___ uvas | doce | 12 | diez;siete;veinte | cien;dos;mil | Una por cada campanada de medianoche.
+1 | Los Reyes Magos dejan carbón a los niños que se han portado ___ | mal | mal | bien;regular;pronto | azul;rápido;volando | El carbón dulce es en realidad un caramelo de azúcar.
+1 | La Sagrada Familia de Barcelona empezó a construirse en el año ___ | 1882 | mil ochocientos ochenta y dos | 1950;1700;1990 | 2000;ayer;1 | Antoni Gaudí trabajó en ella más de 40 años.
+1 | España tiene una ciudad en África que se llama ___ | Ceuta | Melilla;Ceuta y Melilla | Tánger;Orán;Agadir | Pirata;Arena;Camello | Ceuta y Melilla son ciudades autónomas españolas en el norte de África.
+1 | La Cueva de Altamira tiene pinturas de ___ hechas hace miles de años | bisontes | bisonte | dinosaurios;mamuts;elefantes | coches;gatos;helados | Está en Cantabria y se la llama la "Capilla Sixtina" del arte prehistórico.
+1 | En Galicia hay una famosa catedral al final del Camino de ___ | Santiago | santiago | Compostela;San Juan;las Estrellas | Baldosas;Chocolate;Hormigas | Su incensario gigante, el botafumeiro, pesa más de 50 kilos.
+1 | El mayor lago de origen glaciar de la península ibérica es el de ___ | Sanabria | sanabria | Banyoles;Gallocanta;la Albufera | Chocolate;los Cisnes;Mickey | Está en Zamora y tiene origen glaciar.
+1 | En La Gomera se habla con ___ | silbidos | silbo;silbando;el silbo gomero | gestos;tambores;banderas | canciones;besos;estornudos | El silbo gomero es Patrimonio de la Humanidad y se enseña en los colegios.
+1 | El turrón de Navidad más típico es de ___ | almendra | almendras | cacahuete;avellana;nueces | gominola;fresa;chicle | El duro es de Alicante y el blando de Jijona.
+2 | La Alhambra está en ___ | Granada | granada | Córdoba;Sevilla;Toledo | - | Su nombre significa "la roja" en árabe.
+2 | El Quijote empieza en "un lugar de la ___" | Mancha | mancha;La Mancha | Rioja;Alcarria;Meseta | - | Cervantes publicó la primera parte en 1605.
+2 | La bandera de España tiene ___ franjas | tres | 3 | dos;cinco;cuatro | - | Roja, amarilla y roja; la amarilla es el doble de ancha.
+2 | El río más largo que nace y muere en España es el ___ | Ebro | ebro | Tajo;Guadalquivir;Duero | - | El Tajo es más largo, pero termina en Portugal.
+2 | El parque nacional español con más visitantes es el del ___ | Teide | teide | Ordesa;Doñana;Picos de Europa | - | Recibe millones de visitas cada año.
+2 | La Puerta del Sol tiene el "kilómetro ___" de las carreteras españolas | cero | 0 | uno;cien;mil | - | Desde allí se miden las distancias de las carreteras radiales.
+2 | Los Sanfermines se celebran en ___ | Pamplona | pamplona;Iruña | Bilbao;Zaragoza;Logroño | - | Del 6 al 14 de julio, con los famosos encierros.
+2 | La Dama de Elche es una escultura ___ | íbera | ibera;ibérica;iberica | romana;griega;árabe | - | Se descubrió en 1897 y está en el Museo Arqueológico Nacional.
+2 | El Misteri d'Elx es una obra de teatro ___ | cantada | musical;cantada en valenciano | muda;de títeres;de magia | - | Se representa cada agosto en la basílica de Elche desde la Edad Media.
+3 | La primera línea de metro de España se inauguró en ___ | Madrid | madrid | Barcelona;Bilbao;Valencia | - | Fue en 1919, entre Sol y Cuatro Caminos.
+3 | El edificio de la Real Casa de Correos, en la Puerta del Sol, es la sede de ___ | la Comunidad de Madrid | Comunidad de Madrid;gobierno regional | el Ayuntamiento;Correos;el Senado | - | Su reloj es el que da las campanadas de Nochevieja.
+1 | El Palmeral de ___ es el mayor palmeral de Europa | Elche | elche;Elx | Alicante;Orihuela;Valencia | los Sueños;Coco;Plátanos | Tiene más de 200.000 palmeras y es Patrimonio de la Humanidad.
+1 | En Fallas se comen unos dulces fritos de calabaza llamados ___ | buñuelos | bunyols;buñuelos de calabaza | churros;torrijas;rosquillas | caramelos;gominolas;nubes | Se suelen mojar en chocolate caliente.
+1 | El Museo del Prado está en ___ | Madrid | madrid | Barcelona;Sevilla;Bilbao | París;Prado Verde;Londres | Abrió sus puertas en 1819.
+1 | Los "castellers" de Cataluña hacen torres ___ | humanas | de personas;de gente | de arena;de naipes;de madera | de chocolate;de nieve;de Lego | Son Patrimonio Cultural Inmaterial de la Humanidad desde 2010.
+2 | La paella original lleva pollo, conejo y ___ | judías verdes | bajoqueta;garrofón;judía verde | gambas;mejillones;chorizo | - | La paella valenciana tradicional no lleva marisco.
+2 | El Tribunal de las Aguas de Valencia se reúne cada ___ | jueves | los jueves | lunes;domingo;martes | - | Lleva más de mil años resolviendo conflictos de riego en la puerta de la Catedral.

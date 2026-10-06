@@ -1,0 +1,47 @@
+# nivel | pregunta | respuesta | alias | casa | peques | dato
+1 | Un bebé recién nacido tiene casi ___ huesos | 300 | trescientos;270;300 huesos | 100;150;500 | 3;10;mil | Al crecer, muchos se sueldan y un adulto se queda con 206.
+1 | El hueso más pequeño del cuerpo está en la ___ | oreja | oído;oido | nariz;mano;pie | uña;lengua;pelo | Se llama estribo y mide unos 3 milímetros.
+1 | El músculo más fuerte para su tamaño es el de la ___ | mandíbula | mandibula;masetero | lengua;pierna;espalda | oreja;nariz;dedo meñique | El masetero, que usamos para masticar, aprieta con muchísima fuerza.
+1 | Al estornudar, los ojos se ___ solos casi siempre | cierran | cierran;se cierran | abren;mojan;cruzan | ponen azules;duermen;esconden | Es un reflejo: los párpados se cierran a la vez que sale el aire.
+1 | Las uñas de las ___ crecen más rápido | manos | manos | pies;rodillas;dos por igual | orejas;narices;patas | Las de las manos crecen unas cuatro veces más rápido que las de los pies.
+1 | De lo que se ve por fuera, lo que más rápido crece es el ___ | pelo | cabello;pelo de la cabeza | uñas;nariz;dientes | ombligo;rodilla;codo | El pelo de la cabeza crece aproximadamente un centímetro al mes.
+1 | Por la mañana eres un poco más ___ que por la noche | alto | alta;altos | bajito;guapo;delgado | verde;viejo;gordo | Durante el día, los discos de la columna se aplastan un poco.
+1 | Los bebés nacen sin ___ en las rodillas | rótulas | rótula;rotula;rotulas | piel;huesos pequeños;uñas | dedos;pelo;tripa | La rótula empieza siendo cartílago y se endurece entre los 2 y los 6 años.
+1 | Con los años, la nariz y las ___ parecen hacerse más grandes | orejas | oreja | manos;cejas;mejillas | rodillas;uñas;pestañas | El cartílago se estira y cae un poco con los años, por eso parecen más grandes.
+1 | Tu lengua tiene una huella única, igual que tus ___ | dedos | huellas dactilares;huellas | ojos;dientes;orejas | zapatos;camisetas;mochilas | La forma y textura de cada lengua es diferente.
+1 | Al día parpadeamos unas ___ veces | 15.000 | quince mil;15000;20.000;veinte mil | 500;100;1.000 | 2;3;un millón | Parpadear limpia y moja los ojos sin que nos demos cuenta.
+1 | El órgano más grande del cuerpo es la ___ | piel | la piel | hígado;pulmón;cerebro | tripa;nariz;espalda | En un adulto pesa varios kilos.
+1 | Tu corazón late unas ___ veces al día | 100.000 | cien mil;100000 | 1.000;5.000;1.000.000 | 3;mil;diez | Eso son unas 70 veces por minuto en reposo.
+1 | Los dientes de leche son ___ | veinte | 20 | treinta y dos;diez;cuarenta | cien;tres;mil | Después salen 32 dientes definitivos, contando las muelas del juicio.
+1 | Sin saliva no podríamos notar el ___ de la comida | sabor | gusto | color;olor;peso | ruido;nombre;precio | La comida tiene que disolverse en saliva para que la lengua la detecte.
+1 | Si estiras todos tus vasos sanguíneos darían más de ___ vueltas a la Tierra | dos | 2;dos vueltas | diez;media;cien | mil;un millón;cero | Miden en total alrededor de 100.000 kilómetros.
+1 | No puedes hacerte ___ a ti mismo | cosquillas | cosquilla | un nudo;una foto;sombra | un abrazo;la cama;un bocadillo | El cerebro sabe dónde vas a tocar y no se sorprende.
+1 | El ombligo es la marca del ___ | cordón umbilical | cordón;cordon umbilical | primer baño;primer diente;biberón | botón;enchufe;tapón | Por ese cordón nos alimentábamos antes de nacer.
+1 | El hueso más largo del cuerpo es el ___ | fémur | femur | húmero;tibia;peroné | dedo;meñique;costilla | Está en el muslo y mide alrededor de una cuarta parte de tu altura.
+1 | El estómago se cambia la capa de dentro cada pocos ___ | días | dias | años;meses;minutos | siglos;segundos;cumpleaños | Así no se digiere a sí mismo con sus propios ácidos.
+1 | La gente que se ríe a la vez con otra se ríe ___ veces más | treinta | 30 | dos;cien;cinco | mil;cero;un millón | Un estudio vio que nos reímos unas 30 veces más acompañados que solos.
+2 | El esmalte de los ___ es lo más duro del cuerpo | dientes | diente;esmalte dental | huesos;uñas;cráneo | - | - | Es más duro que los huesos, pero no se regenera.
+2 | El cerebro funciona con una energía parecida a una bombilla de ___ vatios | 20 | veinte | 100;5;1.000 | - | - | Aunque pesa un 2 % del cuerpo, gasta un 20 % de la energía.
+2 | Un adulto tiene unos ___ litros de sangre | cinco | 5;cinco litros | dos;diez;veinte | - | - | Esa sangre da la vuelta completa al cuerpo en aproximadamente un minuto.
+2 | Los ojos ven las imágenes al revés y el que las gira es el ___ | cerebro | sesos | cristalino;párpado;nervio óptico | - | - | La imagen que llega a la retina está invertida.
+2 | Las neuronas pueden enviar mensajes a más de ___ km/h | 400 | cuatrocientos | 40;10;5.000 | - | - | Las fibras más rápidas superan los 100 metros por segundo.
+2 | El intestino delgado mide unos ___ metros | seis | 6;siete;7 | dos;veinte;cuarenta | - | - | Está doblado como una manguera dentro de la tripa.
+2 | Los humanos compartimos aproximadamente el 60 % de los genes con el ___ | plátano | platano;banana;plátanos | tomate;pepino;champiñón | - | - | Muchos genes básicos de las células son comunes a casi todos los seres vivos.
+2 | El único músculo que nunca se cansa en todo el día es el ___ | corazón | corazon | diafragma;párpado;lengua | - | - | El músculo cardíaco descansa un instante entre latido y latido.
+2 | La piel se renueva por completo cada unas ___ semanas | cuatro | 4;cuatro semanas;un mes | dos;diez;veinte | - | - | Perdemos miles de células de piel cada minuto sin notarlo.
+2 | Los pulmones no son iguales: el ___ es más pequeño | izquierdo | pulmón izquierdo | derecho;de arriba;de abajo | - | - | Deja hueco para el corazón.
+2 | Dentro de los huesos se fabrica la ___ | sangre | glóbulos rojos;células de la sangre | saliva;leche;grasa | - | - | La médula ósea produce millones de glóbulos rojos cada segundo.
+2 | El sentido que más recuerdos trae es el ___ | olfato | olor | oído;tacto;gusto | - | - | El olfato está muy conectado con las zonas de la memoria y las emociones.
+2 | En la mano y la muñeca tienes ___ huesos | 27 | veintisiete | 12;8;50 | - | - | Más de una cuarta parte de los huesos del cuerpo están en las manos.
+3 | Las huellas dactilares se forman antes de ___ | nacer | nacimiento;nacer, en el útero | los dos años;andar;aprender a hablar | - | - | Aparecen hacia el tercer o cuarto mes de embarazo.
+3 | Los ojos humanos pueden distinguir alrededor de un ___ de colores | millón | millon;1 millón | mil;billón;centenar | - | - | Gracias a tres tipos de conos en la retina.
+3 | El ácido del estómago es tan fuerte que puede llegar a corroer el ___ | metal | metales;hierro | plástico;diamante;cristal | - | - | Es ácido clorhídrico; el estómago se protege con moco.
+1 | Cuando tienes la piel de gallina, se te ponen de punta los ___ | pelos | vellos;pelillos;vello | huesos;dientes;nervios | dedos;ojos;orejas | Es un reflejo que heredamos de cuando teníamos mucho más pelo.
+1 | Los bebés pueden respirar y tragar a la ___ | vez | vez;a la vez;mismo tiempo | hora;noche;semana | pata coja;derecha;carrera | Hasta los seis meses más o menos; luego ya no podemos.
+1 | Tu nariz puede distinguir más de un ___ de olores | billón | billon;millón | millar;centenar;docena | par;trío;puñado | Un estudio de 2014 calculó que podemos distinguir al menos un billón de olores.
+1 | El hipo es un espasmo del ___ | diafragma | músculo diafragma | estómago;corazón;pulmón | ombligo;codo;cuello | El diafragma es el músculo que nos ayuda a respirar.
+2 | La sangre que sale de las venas es oscura, pero no es ___ | azul | azul | verde;negra;morada | - | Las venas se ven azules por cómo la piel deja pasar la luz.
+2 | El sudor no huele: el olor lo producen las ___ | bacterias | bacteria;microbios | glándulas;hormonas;células muertas | - | Las bacterias de la piel descomponen el sudor.
+2 | El ser humano es el único animal que llora por ___ | emoción | emociones;tristeza;sentimientos | dolor;sueño;hambre | - | Otros animales lagrimean, pero solo para limpiar los ojos.
+3 | La ___ del ojo no tiene vasos sanguíneos | córnea | cornea | pupila;retina;pestaña | - | Recibe el oxígeno directamente del aire y de las lágrimas.
+3 | Los dientes son la única parte del cuerpo que no se puede ___ sola | reparar | curar;regenerar;arreglar | mover;limpiar;enfriar | - | Por eso hay que cuidarlos: el esmalte no vuelve a crecer.

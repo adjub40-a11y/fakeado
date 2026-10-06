@@ -1,0 +1,30 @@
+# nivel | pregunta | respuesta | alias | casa | peques | dato
+1 | Un rayo es unas ___ veces más caliente que la superficie del Sol | cinco | 5;cinco veces | dos;cien;mil | cero;un millón;media | Puede alcanzar unos 30.000 grados.
+1 | El agua caliente a veces se congela antes que la fría: es el efecto ___ | Mpemba | mpemba | Newton;Einstein;Pingüino | Hielo;Polo;Helado | Lleva el nombre de un estudiante de Tanzania que lo observó en los años 60.
+1 | Los diamantes están hechos de ___ | carbono | carbón;carbon | cristal;cuarzo;hierro | azúcar;sal;hielo | Igual que la mina de un lápiz, pero ordenado de otra forma.
+1 | El metal que es líquido a temperatura ambiente es el ___ | mercurio | Mercurio | plomo;estaño;aluminio | oro;chocolate;zumo | Antes se usaba en los termómetros.
+1 | El sonido viaja más rápido por el ___ que por el aire | agua | agua;metal;acero | vacío;humo;espacio | chocolate;algodón;sueño | En el agua va unas cuatro veces más rápido.
+1 | Si pudieras doblar un folio por la mitad 42 veces, llegaría a la ___ | Luna | luna | Torre Eiffel;estratosfera;Marte | casa del vecino;nevera;cama | El grosor se duplica cada vez y crece muchísimo.
+1 | Las nubes parecen ligeras pero una normal pesa como unos ___ | cien elefantes | elefantes;100 elefantes | diez coches;un camión;un caballo | una pluma;un gato;nada | Una nube cúmulo puede pesar más de 500 toneladas de agua.
+1 | El arcoíris tiene tradicionalmente ___ colores | siete | 7 | seis;ocho;cinco | cien;dos;uno | Rojo, naranja, amarillo, verde, azul, añil y violeta.
+1 | El hielo flota porque es más ___ que el agua líquida | ligero | ligero;menos denso | frío;duro;blanco | feliz;bonito;rápido | Al congelarse, el agua se expande.
+2 | El Empire State de Nueva York recibe unas ___ descargas de rayo al año | 20 | veinte;25;veinticinco;23 | 2;200;1 | - | Es falso que un rayo nunca caiga dos veces en el mismo sitio.
+1 | Un caracol con concha de ___ vive en el fondo del mar | hierro | hierro;metal | oro;plata;diamante | chocolate;plástico;cristal | El caracol pie escamoso vive cerca de fuentes hidrotermales.
+2 | El elemento más abundante del universo es el ___ | hidrógeno | hidrogeno | helio;oxígeno;carbono | - | Más de las tres cuartas partes de la materia normal.
+2 | El gas que más hay en el aire que respiramos es el ___ | nitrógeno | nitrogeno | oxígeno;dióxido de carbono;argón | - | Es un 78 % del aire; el oxígeno solo un 21 %.
+2 | El vidrio se fabrica principalmente con ___ | arena | sílice;arena de sílice | sal;cal;agua | - | Se funde a más de 1.500 grados.
+2 | Un gramo de ADN puede almacenar unos 215 ___ de datos | petabytes | petabyte;PB | megabytes;gigabytes;kilobytes | - | Es una de las formas más densas de guardar información.
+2 | La velocidad de la luz es de unos ___ km por segundo | 300.000 | trescientos mil;300000 | 30.000;3.000;3.000.000 | - | Daría más de siete vueltas a la Tierra en un segundo.
+2 | El oro es tan maleable que con un gramo se puede hacer un hilo de unos ___ km | 3 | tres;2;3 kilómetros | 0,1;30;300 | - | O una lámina finísima de casi un metro cuadrado.
+2 | La Torre Eiffel puede crecer unos ___ cm en verano | 15 | quince;15 centímetros;10 | 1;50;100 | - | El calor dilata el hierro.
+2 | Las plantas sacan de la tierra el agua, pero el ___ de su cuerpo lo sacan sobre todo del aire | carbono | carbono;CO2;dióxido de carbono | nitrógeno;calcio;hierro | - | La madera de un árbol se forma sobre todo a partir del aire.
+3 | El científico que dio nombre a la unidad de frecuencia es Heinrich ___ | Hertz | hertz | Ohm;Volta;Watt | - | Demostró la existencia de las ondas de radio.
+3 | Si quitáramos los espacios vacíos de los átomos, toda la humanidad cabría en un ___ | terrón de azúcar | azucarillo;terrón;cubito de azúcar | estadio;camión;piso | - | Los átomos son casi todo espacio vacío.
+3 | La cerilla se encendía al principio frotándola con papel de ___ | lija | lija;papel de lija | aluminio;cocina;periódico | - | John Walker inventó las cerillas de fricción en 1826.
+1 | Los imanes atraen cosas de ___ | hierro | metal;acero | plástico;madera;cristal | chocolate;papel;goma | No todos los metales: el aluminio, por ejemplo, no se pega.
+1 | El agua hierve a menos temperatura en lo alto de una ___ | montaña | montaña alta | piscina;cueva;playa | nube;casa;cama | Hay menos presión del aire, así que hierve antes de llegar a 100 grados.
+1 | La luz blanca está formada por todos los ___ | colores | colores del arcoíris | rayos;metales;sonidos | caramelos;dibujos;números | Newton lo demostró con un prisma.
+1 | Las plantas fabrican su comida con la luz del sol: se llama ___ | fotosíntesis | fotosintesis | respiración;digestión;floración | merienda;fotografía;fotocopia | Y de paso producen el oxígeno que respiramos.
+2 | El sonido no puede viajar por el ___ | vacío | vacio;espacio | agua;metal;hielo | - | Por eso las explosiones del espacio en las películas serían silenciosas.
+2 | Hay metales tan ligeros que flotan en el agua, como el ___ | litio | sodio;potasio | hierro;oro;plomo | - | Eso sí, reaccionan con el agua: ¡no hay que probarlo en casa!
+2 | La ley de la gravedad la formuló Isaac ___ | Newton | newton | Galileo;Kepler;Hooke | - | La historia de la manzana que le cayó en la cabeza es probablemente exagerada.

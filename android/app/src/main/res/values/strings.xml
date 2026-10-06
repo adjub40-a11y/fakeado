@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">¡Fakeado!</string>
+    <string name="title_activity_main">¡Fakeado!</string>
+    <string name="package_name">es.fakeado.app</string>
+    <string name="custom_url_scheme">es.fakeado.app</string>
+</resources>

@@ -1,0 +1,38 @@
+# nivel | pregunta | respuesta | alias | casa | peques | dato
+1 | Los antiguos egipcios dormían con la cabeza apoyada en una almohada de ___ | piedra | madera;piedra o madera | plumas;lana;paja | gominola;nube;pan | Los reposacabezas eran de madera, piedra o marfil y mantenían el cuello en alto.
+1 | Los vikingos se peinaban mucho y llevaban siempre un ___ | peine | peines | espejo;perfume;cepillo de dientes | sombrero de fiesta;patinete;paraguas | Se han encontrado muchísimos peines en tumbas vikingas.
+1 | Los cascos vikingos con cuernos son un ___ | invento moderno | invento;mito;falso | regalo romano;premio;casco de fiesta | disfraz de carnaval;juguete;helado | No hay pruebas de que los llevaran en batalla; los popularizó una ópera del siglo XIX.
+1 | En la antigua Roma usaban ___ para lavar la ropa | pis | orina;pipí;pipi | vinagre;leche;miel | zumo;chocolate;sopa | El amoníaco de la orina ayudaba a quitar manchas.
+1 | Los primeros chicles de la historia eran de ___ | resina de árbol | resina;savia;corteza de abedul | cera de abeja;goma de neumático;caramelo | plastilina;nubes;papel | Ya se masticaba resina de abedul hace miles de años.
+1 | Cristóbal Colón llegó a América en el año ___ | 1492 | mil cuatrocientos noventa y dos | 1592;1392;1500 | 2000;1;100 | Llegó el 12 de octubre a una isla de las Bahamas.
+1 | Las pirámides de Egipto se construyeron cuando todavía vivían los ___ | mamuts | mamut | dinosaurios;romanos;vikingos | dragones;unicornios;robots | Los últimos mamuts vivieron en una isla hasta hace unos 4.000 años.
+1 | Los romanos se limpiaban en el baño con una esponja en un ___ | palo | bastón;palito | cubo;guante;zapato | escoba;cuchara;libro | Se llamaba xylospongium y se compartía en los baños públicos.
+1 | El cepillo de dientes con cerdas lo inventaron en la antigua ___ | China | china | Grecia;Roma;Egipto | Luna;Antártida;Disneylandia | Usaban pelo de cerdo en un mango de hueso o bambú.
+1 | Los caballeros medievales necesitaban ayuda para ponerse la ___ | armadura | armadura | capa;corona;espada | pijama;mochila;gorra | Las armaduras completas tenían muchas piezas y pesaban entre 15 y 25 kilos.
+1 | En la Edad Media, a los niños les daban de beber ___ floja | cerveza | cerveza suave;cerveza ligera | leche de cabra;limonada;agua de rosas | batido;refresco;gaseosa | La cerveza floja, con muy poco alcohol, era una bebida diaria y alimenticia.
+1 | El famoso emperador francés Napoleón era de estatura ___ | normal | media;mediana | muy bajito;gigante;enana | de hormiga;de jirafa;de árbol | Medía alrededor de 1,69 m, lo normal en su época.
+1 | La diosa egipcia Bastet tenía cabeza de ___ | gato | gata;gatos | caballo;oveja;loro | dinosaurio;dragón;unicornio | Los gatos eran tan apreciados en Egipto que muchos se momificaban.
+1 | Los romanos tenían un dios de las ___ | puertas | puerta | ventanas;sillas;cucharas | camas;zapatillas;mochilas | Se llamaba Jano y tenía dos caras; de él viene el mes de enero.
+2 | La Guerra de los Cien Años duró ___ años | 116 | ciento dieciséis | 100;99;80 | - | Fue entre Inglaterra y Francia, de 1337 a 1453.
+2 | La guerra más corta de la historia duró unos ___ minutos | 40 | cuarenta;38;treinta y ocho | 5;90;180 | - | Fue entre el Reino Unido y Zanzíbar en 1896.
+2 | Cleopatra vivió más cerca en el tiempo de la llegada a la Luna que de la construcción de la ___ | Gran Pirámide | pirámide de Guiza;Gran Pirámide de Guiza;pirámide | Muralla China;Esfinge;Torre de Pisa | - | La Gran Pirámide ya tenía unos 2.500 años cuando nació Cleopatra.
+2 | En la antigua Grecia, los atletas olímpicos competían ___ | desnudos | sin ropa;desnudo | descalzos;con armadura;con túnica | - | La palabra "gimnasio" viene del griego "gymnos", que significa desnudo.
+2 | La Universidad de Oxford es más antigua que el Imperio ___ | azteca | Azteca;mexica | romano;bizantino;griego | - | En Oxford ya se enseñaba en 1096; Tenochtitlan se fundó en 1325.
+2 | La torre Eiffel iba a ser ___ a los 20 años de construirse | desmontada | derribada;desmontada;quitada | pintada de oro;trasladada;ampliada | - | Se salvó porque servía como antena de radio.
+2 | El tenedor llegó a las mesas europeas desde ___ | Bizancio | Constantinopla;Imperio bizantino | China;Egipto;Persia | - | Al principio en Italia se consideraba una costumbre ridícula.
+2 | El famoso Muro de Berlín cayó en el año ___ | 1989 | mil novecientos ochenta y nueve | 1991;1975;1961 | - | Había dividido la ciudad durante 28 años.
+3 | Los romanos usaban ___ como pasta de dientes | pis | orina;pipí | ceniza de pescado;miel;arena | - | Lo importaban incluso de la península ibérica.
+3 | La primera fotografía con una persona salió por casualidad: era un señor ___ | limpiándose los zapatos | limpiabotas;limpiando zapatos;al que limpiaban los zapatos | durmiendo;leyendo;comiendo | - | Daguerre fotografió una calle de París en 1838 y solo se quedó quien estaba quieto.
+3 | El Imperio romano de Oriente duró hasta el año ___ | 1453 | mil cuatrocientos cincuenta y tres | 476;1066;1200 | - | Cayó cuando los otomanos tomaron Constantinopla.
+3 | Albert Einstein rechazó ser presidente de ___ | Israel | israel | Alemania;Suiza;Estados Unidos | - | Se lo ofrecieron en 1952 y dijo que no tenía experiencia para ello.
+1 | Los romanos cerraban la puerta de casa con llaves que llevaban como ___ | anillo | anillos;sortija | collar;pulsera;pendiente | sombrero;cinturón;zapato | Las llaves-anillo eran pequeñas y no se perdían.
+1 | Los egipcios fueron de los primeros en tener ___ como mascota | gatos | gato | loros;hámsteres;conejos | dragones;dinosaurios;unicornios | Los domesticaron hace miles de años para cazar ratones.
+1 | Los piratas llevaban parche en el ojo, según una teoría, para ver mejor en la ___ | oscuridad | bodega;noche;oscuro | lluvia;niebla;playa | piscina;nieve;tele | Así tenían un ojo acostumbrado a la oscuridad al bajar a la bodega.
+1 | En la Edad Media los ___ tenían su propio juicio si hacían daño | animales | cerdos;animal | árboles;niños;barcos | dragones;robots;fantasmas | Se conservan actas de juicios a cerdos y otros animales.
+1 | El pan de molde cortado en rebanadas se vendió por primera vez en el año ___ | 1928 | mil novecientos veintiocho | 1700;1850;1990 | 1;2020;3000 | Fue en Estados Unidos, con una máquina de Otto Rohwedder.
+2 | Los constructores de las pirámides cobraban parte de su ___ en pan y cerveza | sueldo | salario;sueldos;paga | comida de fiesta;premio;herencia | - | Se han encontrado registros de raciones diarias de pan y cerveza para los obreros.
+2 | La Gran Muralla China NO se ve desde ___ a simple vista | la Luna | luna;el espacio desde la Luna | un avión;la Estación Espacial;un globo | - | Es muy larga pero estrecha, y de un color parecido al terreno.
+2 | El calendario que usamos se llama ___ | gregoriano | calendario gregoriano | juliano;romano;lunar | - | Lo implantó el papa Gregorio XIII en 1582.
+2 | En 1582, en España se pasó del 4 de octubre directamente al ___ de octubre | 15 | quince | 5;10;31 | - | Se saltaron diez días para ajustar el calendario.
+3 | La primera mujer que ganó un premio Nobel fue Marie ___ | Curie | curie | Lovelace;Meitner;Franklin | - | Ganó dos: el de Física (1903) y el de Química (1911).
+3 | El faraón niño cuya tumba se descubrió casi intacta en 1922 fue ___ | Tutankamón | tutankamon;Tutankamon;Tutankhamon | Ramsés;Keops;Akenatón | - | La encontró Howard Carter en el Valle de los Reyes.

@@ -1,0 +1,33 @@
+# nivel | pregunta | respuesta | alias | casa | peques | dato
+1 | Una pelota de golf tiene unos ___ hoyuelos | 350 | trescientos cincuenta;300;400;336 | 50;1.000;12 | 2;un millón;cero | Los hoyuelos hacen que la pelota vuele más lejos.
+1 | El baloncesto se jugaba al principio con cestas de ___ | melocotones | melocotón;fruta | basura;huevos;ropa | pizza;juguetes;gatos | James Naismith colgó dos cestas en 1891 y había que sacar el balón con una escalera.
+1 | En un partido de fútbol cada equipo juega con ___ jugadores | once | 11 | diez;doce;nueve | cien;dos;tres | Si un equipo se queda con menos de siete, el partido se suspende.
+1 | Las primeras olimpiadas modernas fueron en ___ | Atenas | atenas | París;Londres;Roma | la Luna;el Polo Norte;Hogwarts | Se celebraron en 1896 en Grecia.
+1 | En el antiguo juego de pelota maya no se podía tocar la pelota con las ___ | manos | mano | caderas;rodillas;cabeza | orejas;narices;cejas | Se golpeaba sobre todo con la cadera.
+1 | El deporte que inventaron para jugar en interior en invierno fue el ___ | baloncesto | basket;básquet;basquetbol | fútbol sala;balonmano;bádminton | ajedrez;parchís;escondite | Lo inventó un profesor de educación física en Estados Unidos.
+1 | Los anillos olímpicos son ___ | cinco | 5 | seis;cuatro;siete | cien;dos;uno | Representan la unión de los cinco continentes habitados.
+1 | Una portería de fútbol mide de ancho unos ___ metros | 7 | siete;7,32 | 5;10;12 | 1;100;mil | Mide 7,32 metros de ancho y 2,44 de alto.
+1 | El tenis de mesa también se llama ___ | ping-pong | ping pong;pimpón;pingpong | tenis pequeño;paleta;bádminton | tenis de cama;mesa-ball;pelotita | Su nombre imita el ruido de la pelota.
+1 | Un partido de baloncesto de la NBA tiene ___ cuartos | cuatro | 4 | dos;tres;seis | cien;diez;uno | Cada cuarto dura 12 minutos.
+1 | El campeonato del mundo de fútbol se celebra cada ___ años | cuatro | 4 | dos;cinco;tres | cien;diez;uno | El primero se jugó en Uruguay en 1930.
+1 | En el tenis, cuando tienes cero puntos se dice ___ | love | nada;cero | null;zero;nada de nada | patata;huevo;pizza | Puede venir del francés "l'oeuf" (el huevo), por su forma de cero.
+1 | La primera Copa del Mundo de fútbol la ganó ___ | Uruguay | uruguay | Brasil;Argentina;Italia | España;Andorra;Japón | Ganó en casa a Argentina en la final de 1930.
+1 | El deporte nacional de Canadá en invierno es el ___ | hockey sobre hielo | hockey | curling;esquí;patinaje | fútbol;natación;tenis | Canadá tiene dos deportes nacionales: el hockey sobre hielo y el lacrosse.
+2 | España ganó su primer Mundial de fútbol en el año ___ | 2010 | dos mil diez | 2008;2012;1982 | - | Ganó a Países Bajos en Sudáfrica con un gol de Iniesta.
+2 | El récord de los 100 metros lisos es de unos ___ segundos | 9,58 | nueve con cincuenta y ocho;9.58;9,6 | 8,99;9,72;10,1 | - | Lo consiguió Usain Bolt en Berlín en 2009.
+2 | Una maratón mide ___ kilómetros | 42,195 | 42;cuarenta y dos;42.195 | 40;50;38,6 | - | La distancia exacta se fijó para los Juegos de Londres de 1908.
+2 | El deporte que se juega con bate y unos palitos llamados "wickets" es el ___ | críquet | cricket;criquet | béisbol;sófbol;golf | - | Es enormemente popular en la India, Pakistán y Australia.
+2 | Una partida de ajedrez empieza con ___ piezas en total | 32 | treinta y dos | 16;24;36 | - | 16 piezas por jugador.
+2 | El primer español que ganó el Tour de Francia fue Federico Martín ___ | Bahamontes | bahamontes | Induráin;Delgado;Ocaña | - | Ganó en 1959; lo llamaban el Águila de Toledo.
+2 | Rafa Nadal ganó Roland Garros ___ veces | 14 | catorce | 10;12;9 | - | Es el récord de títulos en un mismo Grand Slam.
+2 | El surf nació en ___ | Hawái | hawaii;Polinesia;Hawai | California;Australia;Brasil | - | Los antiguos polinesios surfeaban hace siglos.
+2 | El voleibol se inventó como alternativa más suave al ___ | baloncesto | básquet;basket | tenis;rugby;balonmano | - | William G. Morgan lo creó en 1895.
+3 | La única medalla de oro de España en los Juegos de invierno de Sapporo 1972 la ganó Francisco Fernández ___ | Ochoa | ochoa;Paquito Fernández Ochoa | Blanco;Mora;Rey | - | Ganó en eslalon y fue el primer oro olímpico de invierno de España.
+3 | El ajedrecista español del siglo XVI Ruy López da nombre a una ___ | apertura | apertura española;apertura de ajedrez | jugada final;pieza;regla | - | La "apertura Ruy López" es una de las más jugadas del ajedrez.
+1 | En el bádminton se juega con un ___ | volante | plumilla;pluma;plumas | pelota;disco;aro | globo;pompón;dado | Puede superar los 400 km/h en un remate.
+1 | El estadio del Valencia CF se llama ___ | Mestalla | mestalla | Ciutat de València;Riazor;El Sadar | Campo de Fresas;Naranjito;Fallas | Es uno de los estadios más antiguos de España: se inauguró en 1923.
+1 | Una cancha de baloncesto profesional tiene una canasta a ___ metros del suelo | 3,05 | 3;tres;3.05 | 2,5;4;3,5 | 1;10;100 | Equivale a 10 pies, la altura que eligió Naismith.
+1 | El deporte que se juega con un "puck" sobre hielo es el ___ | hockey | hockey sobre hielo | curling;patinaje;bobsleigh | fútbol;golf;tenis | El puck es un disco de goma dura.
+2 | La "pilota valenciana" se juega golpeando la pelota con la ___ | mano | manos | pala;raqueta;cesta | - | Hay modalidades en la calle, como el "carrer", y en el "trinquet".
+2 | Un partido de rugby a quince tiene ___ jugadores por equipo | 15 | quince | 11;13;7 | - | Existe también el rugby a siete, que es olímpico.
+3 | La primera mujer española en ganar una medalla olímpica de oro fue Miriam ___ | Blasco | blasco | Fernández;Gómez;Martínez | - | Ganó en judo en Barcelona 92.

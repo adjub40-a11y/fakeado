@@ -1,0 +1,32 @@
+# nivel | pregunta | respuesta | alias | casa | peques | dato
+1 | La palabra "chocolate" viene del idioma de los ___ | aztecas | náhuatl;nahuatl;mexicas | mayas;incas;romanos | dinosaurios;piratas;marcianos | Viene del náhuatl "xocolatl".
+1 | La palabra "robot" se inventó en una obra de ___ | teatro | obra de teatro | cine;cómic;radio | cumpleaños;circo;cuento de hadas | El escritor checo Karel Čapek la usó en 1920.
+1 | En inglés, una "mariquita" se llama "ladybird", que significa ___ | pájaro de la señora | pájaro señora;pájaro de la dama | señora roja;bicho bonito;dama alada | pájaro feliz;gato rojo;flor que vuela | Se le dedicaba a la Virgen María, "Our Lady".
+1 | La palabra "ojalá" viene del ___ | árabe | arabe | latín;griego;francés | inglés;chino;japonés | Significa algo parecido a "si Dios quiere".
+1 | La palabra más larga del diccionario español es ___ | electroencefalografista | electroencefalografistas | esternocleidomastoideo;paralelepípedo;otorrinolaringólogo | supercalifragilístico;palabrota;larguísima | Tiene 23 letras.
+1 | "Murciélago" tiene las cinco ___ | vocales | vocales | consonantes;sílabas;tildes | patas;alas;orejas | Igual que "euforia" o "aguijonearemos".
+1 | La palabra "zapato" viene del ___ | turco | turco | latín;francés;alemán | marciano;inglés;chino | Llegó probablemente del turco "zabata".
+1 | En japonés, "karaoke" significa ___ | orquesta vacía | orquesta vacia | canto feliz;micrófono roto;fiesta loca | canción de gato;voz de pato;cantar mal | "Kara" es vacío y "oke" viene de orquesta.
+1 | La palabra "tsunami" en japonés significa ola de ___ | puerto | puertos | luna;dragón;montaña | pez;helado;pato | Los pescadores volvían y encontraban el puerto destrozado.
+1 | La palabra "almohada" viene del ___ | árabe | arabe | latín;griego;gallego | inglés;chino;francés | Muchas palabras que empiezan por "al-" vienen del árabe.
+1 | Un "palíndromo" es una palabra que se lee igual al ___ | revés | reves;derecho y al revés | hablar;cantar;gritar | espejo;dormir;bostezar | Como "reconocer" o "Anita lava la tina".
+1 | El signo "@" en español se llama ___ | arroba | arroba | ensaimada;caracol;letra at | gusanito;remolino;churro | La arroba era también una medida antigua de peso.
+2 | La palabra "algoritmo" viene del nombre de un matemático ___ | persa | árabe;Al-Juarismi;de Persia | griego;indio;egipcio | - | Al-Juarismi vivió en Bagdad en el siglo IX.
+2 | La palabra "bikini" viene de un ___ | atolón | isla;atolón del Pacífico | diseñador;río;baile | - | Bikini es un atolón de las Islas Marshall.
+2 | "Pijama" es una palabra que viene de la ___ | India | india;Persia;persa;hindi | China;Japón;Escocia | - | Viene del persa e hindi "pay jama", ropa para las piernas.
+2 | La palabra "esternocleidomastoideo" es el nombre de un ___ | músculo | musculo;músculo del cuello | hueso;nervio;dinosaurio | - | Es el músculo que gira la cabeza.
+2 | El idioma con más hablantes nativos del mundo es el ___ | chino mandarín | chino;mandarín;mandarin | español;inglés;hindi | - | El español es el segundo.
+2 | La ñ nació de abreviar ___ | dos enes | nn;doble n;dos n | una n y una g;un acento;una virgulilla | - | Los copistas escribían una n pequeña encima para ahorrar espacio.
+2 | Un "hipopótamo" significa en griego "caballo de ___" | río | rio | agua;barro;mar | - | Hippos es caballo y potamos, río.
+2 | La palabra "gimnasio" viene del griego "gymnos", que significa ___ | desnudo | desnudos | fuerte;sudor;ejercicio | - | Los atletas griegos entrenaban sin ropa.
+3 | La palabra "nostalgia" la inventó un ___ | médico | medico;estudiante de medicina | poeta;filósofo;marinero | - | Johannes Hofer la creó en 1688 para describir la tristeza de soldados lejos de casa.
+3 | La palabra "friki" entró en el diccionario de la RAE en el año ___ | 2014 | dos mil catorce | 1990;2001;2020 | - | Viene del inglés "freaky".
+3 | "OK" proviene probablemente de la broma "oll korrect", una forma mal escrita de "all ___" | correct | correcto | right;ok;clear | - | Fue una moda de abreviaturas en periódicos de Boston en 1839.
+1 | La palabra "astronauta" significa "navegante de las ___" | estrellas | estrella;astros | nubes;lunas;galaxias | pizzas;olas;montañas | Viene del griego "astron" (estrella) y "nautes" (navegante).
+1 | La palabra "dinosaurio" significa "lagarto ___" | terrible | terrible | gigante;antiguo;fuerte | comilón;feliz;dormilón | Viene del griego "deinos" (terrible) y "sauros" (lagarto).
+1 | La palabra "chat" en francés significa ___ | gato | gato | charla;gallo;sombrero | pizza;nube;teléfono | Por eso hay tantos chistes de gatos con el chat.
+1 | La palabra "zanahoria" viene del ___ | árabe | arabe | latín;griego;francés | inglés;chino;japonés | Del árabe andalusí "safunnárja".
+1 | En inglés, a la piña se le llama ___ | pineapple | pine apple | ananas;pinecone;piña colada | pizza;pinapple;plátano | Significa literalmente "manzana de pino", porque parecía una piña de pino.
+2 | La palabra "sándwich" viene de un ___ inglés | conde | lord;conde de Sandwich | panadero;rey;pueblo | - | El conde de Sandwich pedía la comida entre dos panes para no dejar de jugar.
+2 | "Murciélago" viene de "mur" (ratón) y "ciego": significa ratón ___ | ciego | ciego | volador;nocturno;alado | - | Aunque los murciélagos no son ciegos.
+3 | La palabra "salario" viene de la ___ | sal | sal | salud;sala;salsa | - | Una teoría dice que a los soldados romanos se les pagaba con sal o para comprarla.

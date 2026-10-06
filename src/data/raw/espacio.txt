@@ -1,0 +1,46 @@
+# nivel | pregunta | respuesta | alias | casa | peques | dato
+1 | El planeta más grande del sistema solar es ___ | Júpiter | jupiter | Saturno;Neptuno;Urano | la Tierra;la Luna;Plutón | Dentro de Júpiter cabrían más de mil planetas como la Tierra.
+1 | El planeta más cercano al Sol es ___ | Mercurio | mercurio | Venus;Marte;la Tierra | Plutón;la Luna;Júpiter | Un año en Mercurio dura solo 88 días.
+1 | El planeta más caliente del sistema solar es ___ | Venus | venus | Mercurio;Marte;Júpiter | Neptuno;Plutón;la Tierra | Sus nubes atrapan el calor y su superficie supera los 460 grados.
+1 | Marte se ve de color ___ | rojo | rojizo;naranja;rojiza | azul;verde;morado | rosa;blanco;negro | Su suelo tiene mucho óxido de hierro: está oxidado.
+1 | En la Luna las huellas de los astronautas siguen ahí porque no hay ___ | viento | aire;atmósfera | gravedad;agua;polvo | niños;escobas;perros | Sin viento ni lluvia, pueden durar millones de años.
+1 | El primer ser vivo que dio una vuelta a la Tierra en órbita fue una ___ | perra | perrita;Laika;perra Laika | mona;gata;ratona | jirafa;vaca;gallina | Se llamaba Laika y viajó en 1957 en una nave soviética.
+1 | La estrella más cercana a la Tierra es el ___ | Sol | sol | Sirio;la Estrella Polar;Alfa Centauri | la Luna;un satélite;Marte | El Sol también es una estrella: la nuestra.
+1 | Saturno es tan ligero que podría ___ en una bañera gigante | flotar | flotaría | hundirse;derretirse;explotar | cantar;bailar;dormir | Es menos denso que el agua.
+1 | Un día en Venus dura más que un ___ en Venus | año | año venusiano | mes;siglo;minuto | cumpleaños;recreo;verano | Venus gira tan despacio que tarda más en dar una vuelta sobre sí que alrededor del Sol.
+1 | Los astronautas en el espacio crecen unos ___ centímetros | cinco | 5;tres;3;cuatro;4 | treinta;cien;diez | mil;veinte;cincuenta | Sin gravedad, la columna se estira; al volver se encogen otra vez.
+1 | En el espacio no se oye nada porque no hay ___ | aire | atmósfera;atmosfera | luz;gravedad;frío | radios;orejas;altavoces | El sonido necesita aire u otro material para viajar.
+1 | Neptuno es de color ___ | azul | azulado | rojo;amarillo;verde lima | rosa;marrón;naranja | El metano de su atmósfera absorbe la luz roja.
+1 | La Luna se aleja de la Tierra unos ___ centímetros al año | cuatro | 4;tres;3;3,8 | cuarenta;cien;un metro | mil;un kilómetro;diez metros | Se mide rebotando láseres en espejos que dejaron los astronautas.
+1 | Plutón dejó de ser planeta y ahora es un ___ | planeta enano | planetoide;planeta enano | asteroide;cometa;satélite | estrella;meteorito;agujero | La Unión Astronómica Internacional lo reclasificó en 2006.
+1 | Los planetas del sistema solar son ___ | ocho | 8 | nueve;diez;siete | tres;cien;dos | Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano y Neptuno.
+1 | El primer hombre que pisó la Luna fue Neil ___ | Armstrong | armstrong | Aldrin;Gagarin;Collins | Luna;Estrella;Cohete | Lo hizo el 20 de julio de 1969 con la misión Apolo 11.
+1 | La luz del Sol tarda unos ___ minutos en llegar a la Tierra | ocho | 8 | uno;treinta;sesenta | cero;mil;cien | Si el Sol se apagara, tardaríamos ocho minutos en notarlo.
+1 | En la Estación Espacial ven unos ___ amaneceres al día | dieciséis | 16 | uno;dos;cien | cero;mil;tres | Da una vuelta a la Tierra cada 90 minutos.
+2 | Urano gira ___ | tumbado | de lado;acostado;tumbado de lado | al revés;muy rápido;quieto | - | Su eje está inclinado unos 98 grados: rueda como una pelota.
+2 | El volcán más alto del sistema solar está en ___ | Marte | marte | Venus;la Tierra;Ío | - | El monte Olimpo mide unos 22 kilómetros de alto.
+2 | Los anillos de Saturno están hechos sobre todo de ___ | hielo | hielo y roca;agua helada | gas;polvo de oro;arena | - | Algunos trozos son diminutos y otros, como una casa.
+2 | La Vía Láctea tiene forma de ___ | espiral | remolino;espiral barrada | huevo;anillo;cubo | - | Nuestro Sol está en uno de sus brazos, lejos del centro.
+2 | Un año en Neptuno dura unos ___ años terrestres | 165 | ciento sesenta y cinco | 12;30;1.000 | - | Desde que se descubrió en 1846, solo ha dado una vuelta completa al Sol.
+2 | El primer ser humano en viajar al espacio fue Yuri ___ | Gagarin | gagarin;Gagarín | Armstrong;Leonov;Titov | - | Lo hizo el 12 de abril de 1961, en un vuelo de 108 minutos.
+2 | La primera mujer en viajar al espacio fue Valentina ___ | Tereshkova | tereshkova;Tereshkóva | Gagarina;Ivanova;Romanova | - | Voló en 1963 y dio 48 vueltas a la Tierra.
+2 | En Júpiter hay una tormenta más grande que la Tierra llamada la Gran Mancha ___ | Roja | roja | Azul;Negra;Blanca | - | Se observa desde hace siglos y es tan ancha como la Tierra o más.
+2 | Sobre la Luna hay ___ banderas de Estados Unidos | seis | 6 | una;dos;doce | - | Una por cada misión Apolo que alunizó; la del Apolo 11 se cayó al despegar.
+2 | Un agujero negro es tan fuerte que ni la ___ puede escapar | luz | la luz | gravedad;energía;radio | - | Por eso no se puede ver directamente.
+2 | Las estrellas que vemos de color azul son más ___ que las rojas | calientes | caliente | frías;pequeñas;antiguas | - | Las rojas son las más frías y las azules las más calientes.
+2 | Hay más estrellas en el universo que granos de ___ en todas las playas de la Tierra | arena | arena | sal;arroz;azúcar | - | Las estimaciones hablan de unos 10.000 trillones de estrellas.
+3 | El objeto fabricado por humanos que está más lejos de la Tierra es la sonda ___ | Voyager 1 | voyager;voyager 1 | Pioneer 10;New Horizons;Cassini | - | Fue lanzada en 1977 y ya ha salido de la burbuja del Sol.
+3 | La primera persona española en el espacio fue Pedro ___ | Duque | duque | Sánchez;Cavada;Jiménez | - | Voló en 1998 en el transbordador Discovery.
+3 | En el espacio, el olor que describen los astronautas es parecido al de un ___ | filete quemado | carne quemada;metal caliente;filete a la plancha | perfume;pan recién hecho;limón | - | Lo notan en los trajes al volver de un paseo espacial.
+3 | La sonda europea que aterrizó en un cometa en 2014 se llamaba ___ | Philae | philae;Rosetta | Huygens;Galileo;Spirit | - | Rosetta era la nave nodriza; Philae era el pequeño módulo de aterrizaje.
+1 | En la Luna pesarías unas ___ veces menos que en la Tierra | seis | 6 | dos;diez;cien | mil;cero;un millón | Por eso los astronautas daban saltos tan largos.
+1 | El planeta con más lunas conocidas es ___ | Saturno | saturno | Júpiter;Neptuno;Marte | la Tierra;Plutón;el Sol | Tiene más de 250 lunas confirmadas.
+1 | Una "estrella fugaz" en realidad es una ___ | roca | piedra;meteoro;piedrecita | estrella pequeña;nave;luciérnaga | chispa de fuego;nube;lágrima | Son trocitos de roca que arden al entrar en la atmósfera.
+1 | Los astronautas en la Estación Espacial beben agua que antes era ___ | pis | orina;sudor y orina;pipí | nieve;lluvia;agua de mar | zumo;leche;caldo | La reciclan y la limpian hasta dejarla potable.
+1 | En Marte el atardecer es de color ___ | azul | azulado;azul claro | rojo;verde;morado | rosa;dorado;negro | El polvo marciano dispersa la luz de forma distinta a nuestra atmósfera.
+1 | La Luna tarda unos ___ días en dar una vuelta a la Tierra | 27 | veintisiete;28;veintiocho;29 | 7;365;100 | 2;1;mil | Por eso un mes dura más o menos lo mismo.
+2 | Las primeras perras que dieron vueltas a la Tierra y volvieron vivas se llamaban Belka y ___ | Strelka | strelka | Laika;Lunik;Sputnik | - | Volaron en 1960 y volvieron sanas y salvas.
+2 | El telescopio espacial James Webb observa sobre todo en luz ___ | infrarroja | infrarrojo | ultravioleta;visible;de rayos X | - | Así puede ver a través del polvo y galaxias muy lejanas.
+2 | El planeta que gira al revés que casi todos los demás es ___ | Venus | venus | Marte;Mercurio;Júpiter | - | En Venus el Sol sale por el oeste.
+3 | La nave que llevó a los primeros humanos a la Luna se llamaba Apolo ___ | 11 | once | 13;1;7 | - | Despegó el 16 de julio de 1969.
+3 | La primera nave en aterrizar en la cara oculta de la Luna fue de ___ | China | china | Estados Unidos;Rusia;India | - | La sonda Chang'e 4 lo consiguió en 2019.

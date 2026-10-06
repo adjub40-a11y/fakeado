@@ -1,0 +1,22 @@
+# nivel | pregunta | respuesta | alias | casa | peques | dato
+1 | En Finlandia hay un campeonato de cargar con la ___ a cuestas | esposa | mujer;pareja;esposa a cuestas | suegra;nevera;oveja | mochila;abuela;tortuga | El premio para el ganador es el peso de su mujer en cerveza.
+1 | En Japón hay un concurso de bebés que ___ | lloran | llorar;lloran más | gatean;ríen;duermen | cantan;bailan;vuelan | En el festival Naki Sumo gana el bebé que llora primero, para traer buena salud.
+1 | En Inglaterra hay una carrera persiguiendo un ___ cuesta abajo | queso | queso redondo;rueda de queso | huevo;melón;balón | conejo;perro;helado | En Cooper's Hill, Gloucester, la gente se tira por la colina tras un queso.
+1 | En Suiza es ilegal tener solo un ___ | cobaya | conejillo de indias;cobayas | gato;pez;loro | perro;dinosaurio;caracol | Son animales sociales y la ley exige que tengan compañía.
+1 | En Escocia hay un deporte que consiste en lanzar un ___ | tronco | tronco de árbol;caber | martillo de cocina;barril;oso de peluche | zapato;helado;pato | Se llama "caber toss" y el tronco puede medir más de 5 metros.
+1 | En el Reino Unido existe un campeonato de ___ con caracoles | carreras | carrera;carreras de caracoles | saltos;natación;lucha | baile;canto;pintura | El campeonato mundial se celebra en Congham, Inglaterra.
+1 | En Tailandia hay una fiesta con un enorme banquete para los ___ | monos | mono | elefantes;perros;tigres | dinosaurios;peces;pingüinos | En Lopburi preparan toneladas de fruta para los macacos.
+1 | En Japón venden ___ de sabores raros como wasabi o pepino | kitkats | Kit Kat;KitKat;chocolatinas | patatas fritas;chicles;caramelos | pizzas;helados;tartas | Se han lanzado cientos de sabores distintos.
+1 | Existe un hotel en Suecia hecho totalmente de ___ | hielo | nieve;hielo y nieve | cartón;cristal;madera de pino | chocolate;galletas;lego | El Icehotel de Jukkasjärvi se reconstruye cada invierno.
+2 | A principios del siglo XX, un ___ guiaba a los barcos por un estrecho de Nueva Zelanda | delfín | delfin;delfín de Risso | pingüino;león marino;tiburón | - | Se llamaba Pelorus Jack y en 1904 una ley lo protegió oficialmente.
+2 | Hay una isla en Japón llena de ___ que se acercan a los turistas | conejos | conejo | gatos;ciervos;monos | - | Ōkunoshima es conocida como la "isla de los conejos".
+2 | En Bélgica hay un festival en el que lanzan ___ desde la torre del campanario | gatos de peluche | gatos de juguete;gatos de trapo;gatos | patos de goma;huevos;quesos | - | El Kattenstoet de Ypres: hoy solo se lanzan gatos de peluche.
+2 | En la Rapa das Bestas gallega se les cortan las crines a los ___ | caballos | caballo;bestas;caballos salvajes | burros;ponis de feria;toros | - | Los caballos viven en libertad en el monte y se reúnen una vez al año.
+2 | El rey del Reino Unido celebra su cumpleaños ___ al año | dos veces | dos;2;2 veces | tres veces;nunca;cada mes | - | El cumpleaños real y el oficial, que se festeja en junio con buen tiempo.
+3 | Un pingüino del zoo de Edimburgo tiene el rango de ___ en la Guardia Real noruega | general | mayor general;brigadier;sir;caballero | coronel;mascota oficial;tambor | - | Se llama Sir Nils Olav y lo ascienden cada pocos años.
+3 | Reino Unido y Japón han nombrado ministros encargados de combatir la ___ | soledad | soledad no deseada | tristeza;timidez;pereza | - | El Reino Unido lo hizo en 2018 y Japón en 2021.
+1 | En Japón existen cafeterías donde puedes tomar algo rodeado de ___ | gatos | gato;búhos;erizos | dinosaurios;tiburones;cocodrilos | dragones;unicornios;robots | Hay cafés de gatos, búhos e incluso erizos.
+1 | En Noruega una carretera atraviesa un túnel de ___ kilómetros | 24 | veinticuatro;24,5 | 2;100;9 | 1;mil;cero | El túnel de Lærdal tiene zonas con luces azules para que los conductores no se duerman.
+1 | En Dinamarca, si cumples 25 años sin pareja, tus amigos te tiran ___ | canela | canela en polvo | harina;huevos;agua | caramelos;confeti;besos | A los 30 la tradición cambia a pimienta.
+2 | Existe una isla con forma de corazón en ___ | Croacia | croacia;Galešnjak | Grecia;Italia;Malta | - | La isla de Galešnjak es famosa por su forma de corazón.
+3 | En Suiza existe una ley que protege la dignidad de las ___ | plantas | planta;vegetales | piedras;nubes;montañas | - | Su Constitución menciona la dignidad de las criaturas, incluidas las plantas.

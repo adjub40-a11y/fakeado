@@ -1,0 +1,38 @@
+# nivel | pregunta | respuesta | alias | casa | peques | dato
+1 | La miel bien guardada puede durar ___ | miles de años | para siempre;siglos;miles de años | un año;diez años;un mes | un día;una semana;un minuto | Se encontró miel comestible en tumbas egipcias.
+1 | Botánicamente, el tomate es una ___ | fruta | fruto;baya | verdura;legumbre;hortaliza | piedra;galleta;flor | Tiene semillas y nace de la flor, como las frutas.
+1 | La fresa lleva las semillas por ___ | fuera | afuera;fuera de la fruta | dentro;debajo;en la hoja | en una caja;en la nevera;en la mochila | Cada puntito es en realidad un pequeño fruto con su semilla.
+1 | Las zanahorias al principio eran de color ___ | morado | moradas;morada;púrpura;violeta | rojo;azul;negro | rosa;dorado;de colores | Las naranjas se popularizaron en los Países Bajos en el siglo XVII.
+1 | Los plátanos crecen ___ hacia arriba | curvados | curvándose;doblados | rectos;en espiral;colgando | cuadrados;con pajarita;con lazo | Se curvan buscando la luz del sol.
+1 | El cacahuete no es un fruto seco de árbol, es una ___ | legumbre | legumbres | semilla de pino;nuez;cereal | caramelo;piedra;flor | Es pariente de las lentejas y los guisantes, y crece bajo tierra.
+1 | Las palomitas saltan porque dentro del grano hay ___ | agua | humedad;una gota de agua | aire;aceite;azúcar | un muelle;un bichito;magia | El agua se convierte en vapor y hace explotar el grano.
+1 | El país que más chocolate come por persona es ___ | Suiza | suiza | Bélgica;Estados Unidos;España | la Luna;el Polo Norte;Narnia | Cada suizo come unos 10 kilos de chocolate al año.
+1 | La pizza margarita se llamó así por una ___ | reina | reina Margarita | flor;cocinera;niña | vaca;bruja;sirena | Se dice que se preparó en 1889 para la reina Margarita de Saboya.
+1 | La sandía tiene más de un 90 % de ___ | agua | agua | azúcar;semillas;fibra | zumo de piña;helado;sal | Por eso es tan refrescante en verano.
+1 | Los pepinos son primos de las ___ | sandías | sandía;calabazas;melones;calabaza;melón | patatas;cebollas;lechugas | piedras;nubes;estrellas | Pertenecen a la misma familia, las cucurbitáceas.
+1 | El queso con más agujeros famoso de Suiza es el ___ | emmental | emental;Emmentaler | gruyer;manchego;brie | queso de nube;quesito;queso azul | Los agujeros los hacen burbujas de gas de las bacterias.
+1 | Los anacardos crecen colgando debajo de una ___ | fruta | manzana de anacardo;pera | flor;hoja;raíz | nube;piedra;estrella | Cada anacardo cuelga de un fruto carnoso llamado manzana de cajú.
+1 | Las piñas tardan unos ___ años en crecer | dos | 2;dos años | diez;cinco;tres meses | cien;mil;un día | Cada planta suele dar una sola piña cada vez.
+1 | Si comes muchísima zanahoria tu piel se puede volver ___ | naranja | anaranjada;amarilla | verde;azul;morada | invisible;de rayas;brillante | Se llama carotenemia y no es peligrosa.
+1 | El brócoli es en realidad una ___ | flor | flores;inflorescencia | raíz;hoja;fruta | piedra;nube;pluma | Comemos los capullos de la flor antes de que se abran.
+1 | El aguacate es una ___ | fruta | baya;fruto | verdura;nuez;legumbre | flor;raíz;semilla mágica | Botánicamente es una baya con una sola semilla grande.
+2 | El plato típico de Valencia, la paella, toma el nombre de la ___ | sartén | paellera;sarten;recipiente | cocinera;fiesta;arroz | - | "Paella" viene del latín patella, que significa sartén.
+2 | El jamón ibérico de bellota procede de cerdos alimentados con ___ | bellotas | bellota | castañas;manzanas;maíz | - | Pasan su última etapa en la dehesa durante la montanera.
+2 | El pimiento de Padrón famoso es que "unos pican y otros ___" | no | non | también;mucho;a veces | - | El dicho completo en gallego: "uns pican e outros non".
+2 | La patata llegó a Europa desde ___ | América | Sudamérica;los Andes;Perú | Asia;África;Australia | - | Los incas la cultivaban desde hacía miles de años.
+2 | El turrón de Jijona es de la provincia de ___ | Alicante | alicante | Valencia;Murcia;Teruel | - | Xixona tiene incluso un museo del turrón.
+2 | La nuez moscada en grandes cantidades puede provocar ___ | alucinaciones | intoxicación;mareos | hipo;estornudos;risa | - | Por eso solo se usa una pizca rallada.
+2 | La vainilla es el fruto de una ___ | orquídea | orquidea | palmera;rosa;enredadera de calabaza | - | Cada flor se poliniza a mano en muchas plantaciones.
+2 | La salsa alioli en su receta tradicional solo lleva ajo, sal y ___ | aceite | aceite de oliva | huevo;limón;leche | - | Su nombre significa literalmente "ajo y aceite".
+2 | El kiwi recibe su nombre de un ___ | pájaro | ave;pájaro kiwi | río;monte;rey | - | El kiwi es un ave de Nueva Zelanda, marrón y peludita como la fruta.
+3 | El picor del chile se mide en unidades ___ | Scoville | scoville | Celsius;Newton;Richter | - | Las creó el químico Wilbur Scoville en 1912.
+3 | El azafrán más caro del mundo se saca del estigma de una flor llamada ___ | rosa del azafrán | crocus;Crocus sativus;rosa | tulipán;amapola;lirio | - | Hacen falta unas 150.000 flores para un kilo.
+3 | Las almendras son parientes de los ___ | melocotones | melocotón;albaricoques;ciruelas | cacahuetes;nogales;pinos | - | La almendra es la semilla de un fruto de la misma familia que el melocotón.
+1 | El pimiento rojo y el verde son la misma planta, pero el rojo está más ___ | maduro | madura;maduro | fresco;dulce;picante | enfadado;caliente;contento | El pimiento verde se recoge antes de madurar.
+1 | Las manzanas flotan en el agua porque una cuarta parte de su volumen es ___ | aire | aire | agua;azúcar;zumo | gas mágico;espuma;helio | Por eso existe el juego de pescar manzanas con la boca.
+1 | Los espaguetis más famosos son italianos, pero la pasta ya se comía en ___ hace 4.000 años | China | china | Grecia;Egipto;India | la Luna;Marte;el Polo Norte | En China se encontraron unos fideos de mijo de hace unos 4.000 años.
+1 | La horchata valenciana se hace con ___ | chufa | chufas | almendra;arroz;coco | leche de cabra;nata;helado | La chufa es un tubérculo que se cultiva en l'Horta de València.
+1 | Las cerezas tienen dentro un hueso que es ___ si lo masticas | tóxico | venenoso;peligroso | dulce;picante;medicinal | mágico;crujiente;de chocolate | Contiene una sustancia que libera cianuro; tragarlo entero no pasa nada.
+2 | El queso más caro del mundo se hace con leche de ___ | burra | burras;asna | camella;yak;reno | - | Se llama pule y se elabora en Serbia.
+2 | El ketchup sale mejor del bote si das golpecitos en el ___ | cuello | cuello del bote;número 57 | fondo;tapón;costado | - | En los botes de cristal de Heinz hay un 57 marcado justo ahí.
+3 | El sabor "umami" fue descubierto por un químico ___ | japonés | japones;de Japón | italiano;chino;francés | - | Kikunae Ikeda lo identificó en 1908 en un caldo de algas.

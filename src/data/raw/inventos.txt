@@ -1,0 +1,36 @@
+# nivel | pregunta | respuesta | alias | casa | peques | dato
+1 | El chupa-chups lo inventó un ___ | español | catalán;Enric Bernat;barcelonés | italiano;americano;francés | marciano;pirata;payaso | Enric Bernat lo creó en 1958 para que los niños no se mancharan las manos.
+1 | La fregona moderna la inventó un ingeniero ___ | español | Manuel Jalón;aragonés | alemán;japonés;inglés | pingüino;robot;rey | Manuel Jalón Corominas la patentó en 1956.
+1 | Las patatas fritas de bolsa nacieron porque un cliente se quejó de que las patatas eran demasiado ___ | gruesas | gordas;grandes | saladas;frías;blandas | azules;feas;cuadradas | Así lo cuenta la leyenda del cocinero George Crum, de 1853.
+1 | El microondas se inventó por casualidad cuando se derritió una ___ | chocolatina | barrita de chocolate;chocolate | vela;galleta;mantequilla | nube;helado;muñeca | Percy Spencer trabajaba con un radar y notó que el chocolate de su bolsillo se fundía.
+1 | Los primeros despertadores humanos en Inglaterra daban golpes con un palo en las ___ | ventanas | ventana;cristales | puertas;camas;tejados | narices;ollas;tambores | Se llamaban knocker-uppers y se les pagaba por despertar a los obreros.
+1 | Uno de los primeros videojuegos de la historia era de ___ | tenis | tenis;ping-pong;tenis de mesa | fútbol;coches;naves | princesas;dinosaurios;cocina | Tennis for Two se creó en 1958 en un osciloscopio.
+1 | El juguete Lego viene de dos palabras danesas que significan ___ | juega bien | jugar bien | construye rápido;pieza feliz;bloque rojo | caramelo duro;pie dolorido;casa grande | "Leg godt" significa "juega bien" en danés.
+1 | Las primeras zapatillas de deporte se llamaban "sneakers" porque eran ___ | silenciosas | no hacían ruido;sigilosas | rápidas;baratas;blancas | mágicas;voladoras;de goma de mascar | Con suela de goma podías acercarte sin que nadie te oyera.
+1 | El primer juguete anunciado en la televisión fue el ___ | Señor Patata | Mr. Potato;Mr Potato;Mister Potato | yoyó;Barbie;cubo de Rubik | balón;coche;oso | Ocurrió en 1952 en Estados Unidos.
+1 | El cubo de Rubik lo inventó un profesor de ___ | arquitectura | arquitecto | matemáticas;música;gimnasia | cocina;payasos;magia | Ernő Rubik lo creó en 1974 para explicar el movimiento en tres dimensiones.
+1 | El chocolate al principio se tomaba ___ | bebido | en bebida;líquido;como bebida | en polvo;congelado;con sal | con kétchup;con los pies;volando | Los aztecas y mayas lo tomaban como una bebida amarga.
+1 | El "post-it" nació de un intento fallido de hacer un pegamento muy ___ | fuerte | fuerte;potente | blando;barato;rápido | rosa;bonito;mágico | El pegamento salió flojo, y años después le encontraron uso.
+1 | El primer teléfono móvil que se vendió pesaba casi ___ | un kilo | 1 kilo;un kilogramo;1 kg | diez kilos;cien gramos;dos kilos | una nube;una pluma;una montaña | El Motorola DynaTAC de 1983 pesaba unos 800 gramos y lo llamaban "el ladrillo".
+1 | El bolígrafo moderno lo popularizó el húngaro László ___ | Bíró | biro;Biro | Bic;Parker;Pilot | Boli;Tinta;Lápiz | Por eso en Argentina al bolígrafo se le llama "birome".
+2 | La primera webcam vigilaba una ___ | cafetera | máquina de café;cafetera de la oficina | puerta;pecera;nevera | - | En la Universidad de Cambridge querían saber si quedaba café sin levantarse.
+2 | El velcro se inventó copiando unas ___ | semillas pegajosas | cardos;bardana;abrojos;semillas | patas de rana;telas de araña;ventosas de pulpo | - | George de Mestral vio cómo se le pegaban al perro durante un paseo.
+2 | El primer coche de la historia tenía ___ ruedas | tres | 3 | dos;seis;cinco | - | El Benz Patent-Motorwagen de 1886.
+2 | El primer mensaje SMS decía ___ | Feliz Navidad | Merry Christmas | Hola;Te quiero;Prueba | - | Se envió en diciembre de 1992 desde un ordenador a un móvil.
+2 | El español Isaac Peral botó en 1888 un submarino que funcionaba con ___ | electricidad | baterías;motor eléctrico;energía eléctrica | vapor;carbón;pedales | - | Fue uno de los primeros submarinos eléctricos capaces de lanzar torpedos.
+2 | La primera montaña rusa servía para llevar ___ | carbón | carbon | caballos;soldados;correo | - | En Pensilvania, una vía de mina de carbón se usó luego como atracción.
+2 | El kétchup se vendió en el siglo XIX como ___ | medicina | medicamento;jarabe | pintura;perfume;pegamento | - | En la década de 1830 se vendían pastillas de tomate para la digestión.
+2 | El autogiro, antecesor del helicóptero, lo inventó el español Juan de la ___ | Cierva | cierva | Rosa;Torre;Vega | - | Voló por primera vez en 1923.
+2 | La gaseosa más famosa del mundo se vendió al principio en ___ | farmacias | farmacia;botica | bares;estadios;cines | - | La Coca-Cola se servía en farmacias como tónico en 1886.
+3 | El primer ordenador electrónico de uso general, el ENIAC, pesaba unas ___ toneladas | 27 | veintisiete;30;treinta | 2;100;500 | - | Ocupaba una sala entera y usaba miles de válvulas de vacío.
+3 | El primer "bug" informático fue literalmente una ___ | polilla | mariposa nocturna;polilla real | cucaracha;araña;mosca | - | En 1947 encontraron una polilla atascada en un ordenador de Harvard.
+3 | El lápiz y la goma de borrar llegaron a unirse en una patente del año ___ | 1858 | mil ochocientos cincuenta y ocho | 1950;1702;1912 | - | Hymen Lipman la patentó en Estados Unidos.
+1 | El lápiz no lleva plomo, lleva ___ | grafito | grafito y arcilla | carbón;tinta;cera | chocolate;polvo mágico;arena | Se llama "mina de plomo" por una confusión antigua.
+1 | La primera "bicicleta" no tenía ___ | pedales | pedal | ruedas;sillín;manillar | timbre;luces;cesta | En 1817 Karl Drais inventó una que se empujaba con los pies.
+1 | El frisbee nació jugando con moldes de ___ | tartas | tarta;pasteles | pizza;sombreros;platos de papel | juguetes;galletas;relojes | Unos estudiantes lanzaban los moldes de la pastelería Frisbie.
+1 | Los semáforos al principio funcionaban con ___ | gas | lámparas de gas | velas;pilas;manivela | magia;pedales;caballos | El primero se instaló en Londres en 1868 y explotó al poco tiempo.
+1 | La plastilina se inventó primero para limpiar ___ | papel pintado | papel de pared;paredes | coches;zapatos;cristales | dientes;perros;nubes | Se usaba para quitar el hollín del papel pintado.
+2 | Las gafas de sol se usaron primero en China por los ___ | jueces | juez | pescadores;emperadores;soldados | - | Escondían sus ojos para que no se viera lo que pensaban.
+2 | El horno microondas se llamó al principio "Radar ___" | Range | range;Radarange | Chef;Cook;Oven | - | Pesaba más de 300 kilos.
+2 | El primer correo electrónico se envió en el año ___ | 1971 | mil novecientos setenta y uno | 1990;1985;1962 | - | Ray Tomlinson eligió la @ para separar el usuario del ordenador.
+3 | Antiguamente se usaban como despertador ___ con un clavo clavado | velas | vela | relojes de arena;cuerdas;lámparas de aceite | - | Al derretirse la cera hasta el clavo, este caía sobre un plato y hacía ruido.

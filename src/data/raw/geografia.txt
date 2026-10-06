@@ -1,0 +1,36 @@
+# nivel | pregunta | respuesta | alias | casa | peques | dato
+1 | El país con más islas del mundo es ___ | Suecia | suecia | Indonesia;Filipinas;Japón | España;Suiza;Bolivia | Tiene más de 260.000 islas, la mayoría muy pequeñas.
+1 | El animal nacional de Escocia es el ___ | unicornio | unicornios | ciervo;águila;león | dragón;dinosaurio;hada | Aparece en su escudo desde hace siglos.
+1 | El desierto más grande del mundo es la ___ | Antártida | Antártica;Antártico | Sáhara;Gobi;Kalahari | playa;Luna;selva | Un desierto es un lugar donde casi no llueve, aunque haga frío.
+1 | El río más largo de Europa es el ___ | Volga | volga | Danubio;Rin;Támesis | Ebro;Manzanares;Turia | Recorre Rusia durante más de 3.500 kilómetros.
+1 | En Australia hay más ___ que personas | canguros | canguro | koalas;cocodrilos;ovejas negras | dinosaurios;pingüinos;jirafas | Se calcula que hay más de 40 millones de canguros.
+1 | La montaña más alta del mundo es el ___ | Everest | everest;monte Everest | K2;Kilimanjaro;Aconcagua | Teide;Mulhacén;Montserrat | Mide unos 8.849 metros.
+1 | El país con forma de bota es ___ | Italia | italia | Chile;Portugal;Grecia | Francia;Japón;Brasil | Sicilia sería la pelota que patea la bota.
+1 | La capital de Australia es ___ | Canberra | canberra | Sídney;Melbourne;Perth | Canguro;Koala;Australia City | Se construyó a propósito entre Sídney y Melbourne para que no discutieran.
+1 | En Rusia hay ___ zonas horarias | once | 11 | tres;veinte;cinco | cien;una;mil | Cuando en un extremo es de noche, en el otro ya es de día.
+1 | El océano más grande es el ___ | Pacífico | pacifico;océano Pacífico | Atlántico;Índico;Ártico | Mediterráneo;Cantábrico;de chocolate | Ocupa casi un tercio de la superficie de la Tierra.
+1 | El país más pequeño del mundo es ___ | Ciudad del Vaticano | Vaticano;el Vaticano | Mónaco;Andorra;San Marino | España;China;Rusia | Mide menos de medio kilómetro cuadrado.
+1 | El lago más grande de agua dulce por superficie es el lago ___ | Superior | superior | Titicaca;Victoria;Ness | de los cisnes;Chocolate;Azul | Está entre Estados Unidos y Canadá.
+1 | El país con más volcanes activos de Europa es ___ | Islandia | islandia | Italia;Grecia;España | Suiza;Noruega;Francia | Tiene más de 30 sistemas volcánicos activos.
+1 | La capital más alta del mundo es ___ | La Paz | la paz | Quito;Bogotá;Katmandú | Madrid;París;Londres | Sede de gobierno de Bolivia, a más de 3.600 metros de altura.
+1 | El Amazonas lleva más agua al mar que los siete ríos siguientes ___ | juntos | todos juntos;sumados | por separado;en invierno;de noche | en un vaso;en una piscina;en un cubo | Su desembocadura es tan grande que tiene islas enormes.
+1 | En Japón hay más ___ que personas en algunas islas | gatos | gato | perros;monos;ciervos | dinosaurios;robots;pingüinos | Hay "islas de los gatos" como Aoshima, donde los gatos superan a los vecinos.
+2 | La única capital de Europa que hace frontera con dos países es ___ | Bratislava | bratislava | Viena;Budapest;Liubliana | - | Bratislava limita con Austria y Hungría.
+2 | El punto más bajo de la tierra firme es la orilla del mar ___ | Muerto | muerto;Mar Muerto | Caspio;Negro;Rojo | - | Está unos 430 metros por debajo del nivel del mar.
+2 | Canadá tiene más ___ que el resto del mundo junto | lagos | lago | osos;islas;bosques | - | Alberga alrededor del 60 % de los lagos del planeta.
+2 | Hay un país que está entero dentro de Italia y se llama ___ | San Marino | san marino;Vaticano;Ciudad del Vaticano | Mónaco;Liechtenstein;Malta | - | San Marino y el Vaticano están rodeados por Italia.
+2 | La ciudad más poblada del mundo según la ONU es ___ | Yakarta | yakarta;Jakarta;Tokio | Nueva York;México;Bombay | - | Un informe de la ONU de 2025 la situó en primer lugar, por delante de Daca y Tokio.
+2 | El Sáhara tiene más o menos el tamaño de ___ | Estados Unidos | EEUU;EE. UU.;China | España;Europa occidental;Australia | - | Ocupa unos 9 millones de kilómetros cuadrados.
+2 | El país con más pirámides del mundo es ___ | Sudán | sudan | Egipto;México;Perú | - | Sudán tiene más de 200 pirámides, el doble que Egipto.
+2 | La frontera más larga del mundo es la de Estados Unidos y ___ | Canadá | canada | México;Rusia;Groenlandia | - | Mide casi 9.000 kilómetros.
+2 | Groenlandia pertenece al reino de ___ | Dinamarca | dinamarca | Noruega;Islandia;Canadá | - | Es la isla más grande del mundo que no es un continente.
+3 | El país que tiene la bandera que no es rectangular es ___ | Nepal | nepal | Suiza;Bután;Qatar | - | Su bandera son dos triángulos superpuestos.
+3 | La ciudad de Estambul está en dos ___ | continentes | continente;Europa y Asia | países;islas;hemisferios | - | El estrecho del Bósforo separa su parte europea de la asiática.
+3 | En Bolivia se encuentra el mayor desierto de sal del mundo, el Salar de ___ | Uyuni | uyuni | Atacama;Titicaca;Potosí | - | Cuando llueve se convierte en un espejo gigante.
+1 | El país con más habitantes del mundo es ___ | India | india | China;Estados Unidos;Indonesia | España;Andorra;Japón | Superó a China en 2023 según la ONU.
+1 | Australia es a la vez un país y un ___ | continente | continente | archipiélago;desierto;reino | planeta;barco;zoo | Es el continente habitado más pequeño.
+1 | El río que pasa por Valencia y fue desviado tras una riada es el ___ | Turia | turia | Júcar;Ebro;Segura | Manzanares;Nilo;Amazonas | Tras la riada de 1957 se desvió y su antiguo cauce es hoy un gran jardín.
+1 | En el Polo Sur no hay ___ polares | osos | oso | pingüinos;focas;ballenas | perros;gatos;caballos | Los osos polares viven en el Ártico, al norte.
+2 | El nombre del país ___ significa "montaña negra" | Montenegro | montenegro;Crna Gora | Albania;Andorra;Eslovenia | - | En su idioma se llama Crna Gora.
+2 | La isla más grande del Mediterráneo es ___ | Sicilia | sicilia | Cerdeña;Chipre;Mallorca | - | Allí está el Etna, uno de los volcanes más activos de Europa.
+3 | El único país de Sudamérica cuyo idioma oficial es el portugués es ___ | Brasil | brasil | Uruguay;Paraguay;Venezuela | - | Ocupa casi la mitad del continente.
