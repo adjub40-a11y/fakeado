@@ -1,5 +1,5 @@
 # nivel | pregunta | respuesta | alias | casa | peques | dato
-1 | En Finlandia hay un campeonato de cargar con la ___ a cuestas | esposa | mujer;pareja;esposa a cuestas | suegra;nevera;oveja | mochila;abuela;tortuga | El premio para el ganador es el peso de su mujer en cerveza.
+1 | En Finlandia hay un campeonato de cargar con la ___ a cuestas | esposa | mujer;pareja;esposa a cuestas | suegra;nevera;oveja | mochila;abuela;tortuga | Se celebra cada verano en Sonkajärvi y hay carreras con obstáculos y charcos.
 1 | En Japón hay un concurso de bebés que ___ | lloran | llorar;lloran más | gatean;ríen;duermen | cantan;bailan;vuelan | En el festival Naki Sumo gana el bebé que llora primero, para traer buena salud.
 1 | En Inglaterra hay una carrera persiguiendo un ___ cuesta abajo | queso | queso redondo;rueda de queso | huevo;melón;balón | conejo;perro;helado | En Cooper's Hill, Gloucester, la gente se tira por la colina tras un queso.
 1 | En Suiza es ilegal tener solo un ___ | cobaya | conejillo de indias;cobayas | gato;pez;loro | perro;dinosaurio;caracol | Son animales sociales y la ley exige que tengan compañía.
