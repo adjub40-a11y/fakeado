@@ -30,7 +30,7 @@ PENSADO PARA PADRES E HIJOS
 • Tras cada pregunta, un dato curioso: se aprende sin darse cuenta.
 
 VARIOS MÓVILES, UNA SOLA PARTIDA
-• Uno crea la sala y los demás se unen con un código de 4 letras.
+• Uno crea la sala y los demás se unen con un código de 6 letras.
 • Usa una tablet o el ordenador como pantalla grande para que todos vean las respuestas.
 • ¿Solo hay un móvil? Jugad pasándolo por turnos.
 
