@@ -1,0 +1,11 @@
+{
+  "appId": "es.fakeado.carretera",
+  "appName": "La carretera es mía",
+  "webDir": "www",
+  "backgroundColor": "#16181b",
+  "android": { "backgroundColor": "#16181b" },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 800, "launchAutoHide": true, "backgroundColor": "#16181b", "showSpinner": false },
+    "StatusBar": { "overlaysWebView": true, "style": "DARK" }
+  }
+}
