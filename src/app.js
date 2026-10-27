@@ -5,11 +5,11 @@ import { StatusBar } from '@capacitor/status-bar';
 import { SplashScreen } from '@capacitor/splash-screen';
 import { AdMob, BannerAdPosition, BannerAdSize, AdmobConsentStatus } from '@capacitor-community/admob';
 
-// IDs de AdMob. Mientras no haya cuenta de AdMob propia se usan los de PRUEBA de Google.
+// IDs reales de AdMob (cuenta pub-1479106248108836, app «La carretera es mía» Android).
 const ADS = {
-  testing: true,
-  banner: 'ca-app-pub-3940256099942544/6300978111',
-  interstitial: 'ca-app-pub-3940256099942544/1033173712',
+  testing: false,
+  banner: 'ca-app-pub-1479106248108836/5350318921',
+  interstitial: 'ca-app-pub-1479106248108836/2017790603',
 };
 let ready = false, overs = 0, interReady = false, bannerOn = false;
 
