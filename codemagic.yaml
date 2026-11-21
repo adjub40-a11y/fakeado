@@ -123,3 +123,44 @@ workflows:
           export GOOGLE_APPLICATION_CREDENTIALS="$CM_BUILD_DIR/firebase-sa.json"
           npx --yes firebase-tools@latest deploy --only hosting,database --project fakeado-2aaf4 --non-interactive
           rm -f "$CM_BUILD_DIR/firebase-sa.json"
+
+  # La carretera es mía (iPhone): el proyecto vive en la carpeta carretera/
+  carretera-ios-release:
+    name: Carretera · iOS · App Store (TestFlight)
+    instance_type: mac_mini_m2
+    max_build_duration: 45
+    working_directory: carretera
+    integrations:
+      app_store_connect: Fakeado ASC
+    environment:
+      node: 22
+      xcode: latest
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: es.fakeado.carretera
+      vars:
+        APP_STORE_APPLE_ID: 6837675461
+    scripts:
+      - name: Instalar dependencias
+        script: npm ci
+      - name: Preparar el juego (sin conexión)
+        script: npm run build
+      - name: Copiar al proyecto iOS
+        script: npx cap sync ios
+      - name: Aplicar firma
+        script: xcode-project use-profiles
+      - name: Número de compilación
+        script: |
+          LATEST=$(app-store-connect get-latest-testflight-build-number "$APP_STORE_APPLE_ID" 2>/dev/null || echo 0)
+          NEW=$((LATEST + 1))
+          sed -i '' "s/CURRENT_PROJECT_VERSION = [0-9]*;/CURRENT_PROJECT_VERSION = $NEW;/g" ios/App/App.xcodeproj/project.pbxproj
+          echo "Compilación $NEW"
+      - name: Compilar el .ipa
+        script: xcode-project build-ipa --project ios/App/App.xcodeproj --scheme App
+    artifacts:
+      - carretera/build/ios/ipa/*.ipa
+      - build/ios/ipa/*.ipa
+    publishing:
+      app_store_connect:
+        auth: integration
+        submit_to_testflight: true

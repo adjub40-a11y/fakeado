@@ -1,0 +1,22 @@
+{
+  "name": "la-carretera-es-mia",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-web.mjs"
+  },
+  "dependencies": {
+    "@capacitor/core": "^8.5.2",
+    "@capacitor/ios": "^8.5.2",
+    "@capacitor/splash-screen": "^8.0.2",
+    "@capacitor/status-bar": "^8.0.4"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.2",
+    "@capacitor/assets": "^3.0.5",
+    "three": "0.128.0",
+    "@fontsource/bungee": "^5.1.0",
+    "@fontsource/barlow-condensed": "^5.1.0"
+  }
+}
