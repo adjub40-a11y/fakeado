@@ -85,7 +85,7 @@ trivial,preguntas,mentiras,farol,familia,fiesta,niños,party,quiz,cultura,juego 
 **Categoría principal:** Juegos › Trivial · **Secundaria:** Juegos › Familiares
 **No marques la categoría «Niños»** (Kids): obligaría a quitar Firebase y complica la revisión. La app es apta para todos igualmente.
 
-**URL de soporte:** `https://TU-PROYECTO.web.app/` · **URL de privacidad:** `https://TU-PROYECTO.web.app/privacidad.html`
+**URL de soporte:** `https://docs.google.com/document/d/1_-odjUy8Dgiw8_ZSuwxg-e3mWfPIHxpeBE_3Nzg18Ag/view` (la misma política: lleva tu correo de contacto) · **URL de privacidad:** `https://docs.google.com/document/d/1_-odjUy8Dgiw8_ZSuwxg-e3mWfPIHxpeBE_3Nzg18Ag/view`
 **Copyright:** `2026 Jose M. Fuentes`
 
 **Compra dentro de la app** (Monetización › Compras dentro de la app)
@@ -99,7 +99,7 @@ trivial,preguntas,mentiras,farol,familia,fiesta,niños,party,quiz,cultura,juego 
 **Notas para el revisor** (App Review Information › Notes)
 ```
 ¡Fakeado! is a family party game (Spanish). To test with ONE device: tap "Jugar con un solo móvil", add a second player ("Añadir jugador") and tap "Empezar partida". Players pass the phone in turns: each one types a fake answer, then votes for the true one.
-To test multiplayer: tap "Crear partida" > "Para jugar" on one device and "Unirme a una partida" with the 4-letter code on another.
+To test multiplayer: tap "Crear partida" > "Para jugar" on one device and "Unirme a una partida" with the 6-letter code on another.
 User-generated content is limited to short fake answers inside private rooms that only people with the code can join. Answers are filtered for offensive words and the host can remove any player. There is no chat and no account.
 The in-app purchase "fakeado_todo" (0.99 €, non-consumable) unlocks the full question set; it is behind a parental gate (multiplication question). "Restaurar compras" is in "Más preguntas".
 ```
